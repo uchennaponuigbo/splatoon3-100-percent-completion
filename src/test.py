@@ -1,0 +1,1 @@
+print("something something splatoon 3 will take 20 years something something")
