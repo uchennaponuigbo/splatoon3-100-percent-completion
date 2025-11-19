@@ -1,0 +1,1067 @@
+{
+"White Headband": {
+"brand": "SquidForce",
+"cost": 300
+},
+"Urchins Cap": {
+"brand": "Skalop",
+"cost": 600
+},
+"Lightweight Cap": {
+"brand": "Inkline",
+"cost": 800
+},
+"Takoroka Mesh": {
+"brand": "Takoroka",
+"cost": 400
+},
+"Streetstyle Cap": {
+"brand": "Skalop",
+"cost": 600
+},
+"Squid-Stitch Cap": {
+"brand": "Skalop",
+"cost": 8500
+},
+"Squidvader Cap": {
+"brand": "Skalop",
+"cost": 1300
+},
+"Camo Mesh": {
+"brand": "Firefin",
+"cost": 1400
+},
+"Five-Panel Cap": {
+"brand": "Zekko",
+"cost": 1800
+},
+"Zekko Mesh": {
+"brand": "Zekko",
+"cost": 500
+},
+"Backward Cap": {
+"brand": "Zekko",
+"cost": 700
+},
+"Two-Stripe Mesh": {
+"brand": "Krak-On",
+"cost": 700
+},
+"Jet Cap": {
+"brand": "Firefin",
+"cost": 700
+},
+"Cycling Cap": {
+"brand": "Zink",
+"cost": 800
+},
+"Cycle King Cap": {
+"brand": "Tentatek",
+"cost": 2400
+},
+"Long-Billed Cap": {
+"brand": "Krak-On",
+"cost": 9800
+},
+"King Flip Mesh": {
+"brand": "Enperry",
+"cost": 3200
+},
+"Hickory Work Cap": {
+"brand": "Krak-On",
+"cost": 8700
+},
+"Woolly Urchins Classic": {
+"brand": "Krak-On",
+"cost": 3800
+},
+"Jellyvader Cap": {
+"brand": "Skalop",
+"cost": 10000
+},
+"House-Tag Denim Cap": {
+"brand": "Splash Mob",
+"cost": 5200
+},
+"Blowfish Newsie": {
+"brand": "Firefin",
+"cost": 4200
+},
+"Do-Rag, Cap & Glasses": {
+"brand": "Skalop",
+"cost": 9500
+},
+"Pilot Hat": {
+"brand": "Splash Mob",
+"cost": 11500
+},
+"Ink-Black Flap Cap": {
+"brand": "Barazushi",
+"cost": 11200
+},
+"Coral Cap": {
+"brand": "Skalop",
+"cost": 1000
+},
+"Barrelfish Baseball Hat": {
+"brand": "Skalop",
+"cost": 11500
+},
+"Cap'n Cap": {
+"brand": "Splash Mob",
+"cost": 10500
+},
+"Vintage Biker Cap": {
+"brand": "Barazushi",
+"cost": 11500
+},
+"Flounder Flap Cap": {
+"brand": "Rockenberg",
+"cost": 9000
+},
+"Dustcloud Cap": {
+"brand": "Z+F",
+"cost": 7800
+},
+"Seafoam Cap": {
+"brand": "Z+F",
+"cost": 7800
+},
+"Wharfside Cap": {
+"brand": "Skalop",
+"cost": 5000
+},
+"Clue-Detecting Cap": {
+"brand": "Rockenberg",
+"cost": 5000
+},
+"Headlamp Hat": {
+"brand": "Inkline",
+"cost": 5000
+},
+"Swim Cap": {
+"brand": "Emberz",
+"cost": 3200
+},
+"Bobble Hat": {
+"brand": "Splash Mob",
+"cost": 2000
+},
+"Short Beanie": {
+"brand": "Inkline",
+"cost": 600
+},
+"Striped Beanie": {
+"brand": "Splash Mob",
+"cost": 900
+},
+"Sporty Bobble Hat": {
+"brand": "Skalop",
+"cost": 800
+},
+"Special-Forces Beret": {
+"brand": "Forge",
+"cost": 9700
+},
+"Squid Nordic": {
+"brand": "Skalop",
+"cost": 9500
+},
+"Knitted Hat": {
+"brand": "Firefin",
+"cost": 1400
+},
+"Annaki Beret": {
+"brand": "Annaki",
+"cost": 11500
+},
+"Yamagiri Beanie": {
+"brand": "Inkline",
+"cost": 1280
+},
+"Sneaky Beanie": {
+"brand": "Skalop",
+"cost": 3000
+},
+"Anglerfish Knit": {
+"brand": "Skalop",
+"cost": 3000
+},
+"ZedFry Beanie": {
+"brand": "Z+F",
+"cost": 1111
+},
+"Retro Specs": {
+"brand": "Splash Mob",
+"cost": 500
+},
+"Splash Goggles": {
+"brand": "Forge",
+"cost": 2800
+},
+"Pilot Goggles": {
+"brand": "Forge",
+"cost": 5500
+},
+"Tinted Shades": {
+"brand": "Zekko",
+"cost": 350
+},
+"Black Arrowbands": {
+"brand": "Zekko",
+"cost": 2800
+},
+"Snorkel Mask": {
+"brand": "Forge",
+"cost": 3000
+},
+"White Arrowbands": {
+"brand": "Zekko",
+"cost": 8000
+},
+"Fake Contacts": {
+"brand": "Tentatek",
+"cost": 2000
+},
+"18K Aviators": {
+"brand": "Rockenberg",
+"cost": 12000
+},
+"Full-Moon Glasses": {
+"brand": "Krak-On",
+"cost": 600
+},
+"Octoglasses": {
+"brand": "Firefin",
+"cost": 8800
+},
+"Half-Rim Glasses": {
+"brand": "Splash Mob",
+"cost": 4100
+},
+"Double Egg Shades": {
+"brand": "Zekko",
+"cost": 2200
+},
+"Zekko Cap": {
+"brand": "Zekko",
+"cost": 2700
+},
+"SV925 Circle Shades": {
+"brand": "Rockenberg",
+"cost": 11000
+},
+"Annaki Beret & Glasses": {
+"brand": "Annaki",
+"cost": 7850
+},
+"Swim Goggles": {
+"brand": "Zink",
+"cost": 100
+},
+"Ink-Guard Goggles": {
+"brand": "Toni Kensa",
+"cost": 9600
+},
+"Toni Kensa Goggles": {
+"brand": "Toni Kensa",
+"cost": 200
+},
+"Ink-Tinted Goggles": {
+"brand": "Emberz",
+"cost": 10500
+},
+"Retro Framers": {
+"brand": "Enperry",
+"cost": 9900
+},
+"Glassless Glasses": {
+"brand": "Toni Kensa",
+"cost": 11000
+},
+"Triple-Deck Specs": {
+"brand": "Enperry",
+"cost": 11300
+},
+"Invisifloats": {
+"brand": "Inkline",
+"cost": 2780
+},
+"Moto Shades": {
+"brand": "Barazushi",
+"cost": 10200
+},
+"Annaki Charms": {
+"brand": "Annaki",
+"cost": 777
+},
+"Glam Clam Specs": {
+"brand": "Splash Mob",
+"cost": 10000
+},
+"Retro BluFocals": {
+"brand": "Emberz",
+"cost": 11700
+},
+"Sea-Me-Nots": {
+"brand": "Z+F",
+"cost": 11000
+},
+"Hipster Horn-Rims": {
+"brand": "Splash Mob",
+"cost": 11200
+},
+"Deluxury Sleep Mask": {
+"brand": "Emberz",
+"cost": 1200
+},
+"Safari Hat": {
+"brand": "Forge",
+"cost": 2300
+},
+"Jungle Hat": {
+"brand": "Firefin",
+"cost": 9000
+},
+"Camping Hat": {
+"brand": "Inkline",
+"cost": 800
+},
+"Blowfish Bell Hat": {
+"brand": "Firefin",
+"cost": 850
+},
+"Bamboo Hat": {
+"brand": "Inkline",
+"cost": 2200
+},
+"Straw Boater": {
+"brand": "Skalop",
+"cost": 550
+},
+"Classic Straw Boater": {
+"brand": "Skalop",
+"cost": 1500
+},
+"Treasure Hunter": {
+"brand": "Forge",
+"cost": 3000
+},
+"Bucket Hat": {
+"brand": "SquidForce",
+"cost": 400
+},
+"Patched Hat": {
+"brand": "Skalop",
+"cost": 3600
+},
+"Tulip Parasol": {
+"brand": "Inkline",
+"cost": 1280
+},
+"Fugu Bell Hat": {
+"brand": "Firefin",
+"cost": 1700
+},
+"Seashell Bamboo Hat": {
+"brand": "Inkline",
+"cost": 3200
+},
+"Hothouse Hat": {
+"brand": "Skalop",
+"cost": 3680
+},
+"Mountie Hat": {
+"brand": "Inkline",
+"cost": 13000
+},
+"Classic Bowler": {
+"brand": "Splash Mob",
+"cost": 3000
+},
+"Jean Dream Bucket": {
+"brand": "Splash Mob",
+"cost": 2100
+},
+"Howdy Hat": {
+"brand": "Rockenberg",
+"cost": 13000
+},
+"Urchin Understitch": {
+"brand": "Krak-On",
+"cost": 11000
+},
+"Beachcomber": {
+"brand": "Inkline",
+"cost": 9800
+},
+"Z+F Flair Bowler": {
+"brand": "Z+F",
+"cost": 9800
+},
+"Hat-Trick Bell Hat": {
+"brand": "Z+F",
+"cost": 9333
+},
+"Sauna Hat": {
+"brand": "Inkline",
+"cost": 4000
+},
+"Sea-Lily Hat": {
+"brand": "Rockenberg",
+"cost": 4500
+},
+"Studio Headphones": {
+"brand": "Forge",
+"cost": 2800
+},
+"Designer Headphones": {
+"brand": "Forge",
+"cost": 2500
+},
+"Noise Cancelers": {
+"brand": "Forge",
+"cost": 9200
+},
+"Squidfin Hook Cans": {
+"brand": "Forge",
+"cost": 3800
+},
+"Squidlife Headphones": {
+"brand": "Forge",
+"cost": 7070
+},
+"Ocho OctoPhones": {
+"brand": "Forge",
+"cost": 3000
+},
+"Cephalo Pods": {
+"brand": "Forge",
+"cost": 1980
+},
+"Ocho OctoPhones Blancos": {
+"brand": "Forge",
+"cost": 3000
+},
+"Aux Boxes": {
+"brand": "Forge",
+"cost": 3000
+},
+"Dustcloud 'Phones": {
+"brand": "Z+F",
+"cost": 2500
+},
+"Seafoam 'Phones": {
+"brand": "Z+F",
+"cost": 9000
+},
+"Golf Visor": {
+"brand": "Zink",
+"cost": 400
+},
+"FishFry Visor": {
+"brand": "Firefin",
+"cost": 500
+},
+"Sun Visor": {
+"brand": "Tentatek",
+"cost": 2600
+},
+"Takoroka Visor": {
+"brand": "Takoroka",
+"cost": 7500
+},
+"Face Visor": {
+"brand": "Toni Kensa",
+"cost": 10300
+},
+"Crust Bucket Visor": {
+"brand": "SquidForce",
+"cost": 1200
+},
+"Tee Time Visor": {
+"brand": "Skalop",
+"cost": 1200
+},
+"Bike Helmet": {
+"brand": "Skalop",
+"cost": 4800
+},
+"Stealth Goggles": {
+"brand": "Forge",
+"cost": 9800
+},
+"Skate Helmet": {
+"brand": "Skalop",
+"cost": 2500
+},
+"Visor Skate Helmet": {
+"brand": "Skalop",
+"cost": 8000
+},
+"MTB Helmet": {
+"brand": "Zekko",
+"cost": 10500
+},
+"Hockey Helmet": {
+"brand": "Forge",
+"cost": 9900
+},
+"Matte Bike Helmet": {
+"brand": "Zekko",
+"cost": 10000
+},
+"Octo Tackle Helmet Deco": {
+"brand": "Forge",
+"cost": 8888
+},
+"Deca Tackle Visor Helmet": {
+"brand": "Forge",
+"cost": 10100
+},
+"Winkle Stripe Helm": {
+"brand": "Skalop",
+"cost": 9000
+},
+"Party Hard Hat": {
+"brand": "Forge",
+"cost": 12000
+},
+"Home-Team Catcher": {
+"brand": "Forge",
+"cost": 1960
+},
+"Away-Team Catcher": {
+"brand": "Forge",
+"cost": 7700
+},
+"Scrum Cap": {
+"brand": "Forge",
+"cost": 8500
+},
+"Barrelfish Headgear": {
+"brand": "Forge",
+"cost": 10500
+},
+"Barrelfish Home Helmet": {
+"brand": "Forge",
+"cost": 3500
+},
+"ZedFry Helmet": {
+"brand": "Z+F",
+"cost": 8000
+},
+"Slipstream Helmet Pro": {
+"brand": "Tentatek",
+"cost": 9000
+},
+"Slipstream Helmet": {
+"brand": "Zink",
+"cost": 9000
+},
+"Gas Mask": {
+"brand": "Forge",
+"cost": 11000
+},
+"Paintball Mask": {
+"brand": "Forge",
+"cost": 10000
+},
+"Paisley Bandana": {
+"brand": "Krak-On",
+"cost": 750
+},
+"Skull Bandana": {
+"brand": "Forge",
+"cost": 7800
+},
+"Painter's Mask": {
+"brand": "SquidForce",
+"cost": 4500
+},
+"Annaki Mask": {
+"brand": "Annaki",
+"cost": 3600
+},
+"Octoking Facemask": {
+"brand": "Enperry",
+"cost": 1450
+},
+"Squid Facemask": {
+"brand": "SquidForce",
+"cost": 300
+},
+"Firefin Facemask": {
+"brand": "Firefin",
+"cost": 650
+},
+"King Facemask": {
+"brand": "Enperry",
+"cost": 500
+},
+"Motocross Nose Guard": {
+"brand": "Forge",
+"cost": 7600
+},
+"Forge Mask": {
+"brand": "Forge",
+"cost": 1400
+},
+"Digi-Camo Forge Mask": {
+"brand": "Forge",
+"cost": 1800
+},
+"BlobMob Mask": {
+"brand": "Emberz",
+"cost": 825
+},
+"Air Gills DX": {
+"brand": "SquidForce",
+"cost": 825
+},
+"Squidbeak Shield": {
+"brand": "Toni Kensa",
+"cost": 4000
+},
+"Meetcha Mask": {
+"brand": "Emberz",
+"cost": 500
+},
+"Stealth Squidbeak Shield": {
+"brand": "Toni Kensa",
+"cost": 4400
+},
+"Snaxolotl Hood": {
+"brand": "Z+F",
+"cost": 11111
+},
+"B-ball Headband": {
+"brand": "Zink",
+"cost": 300
+},
+"Squash Headband": {
+"brand": "Zink",
+"cost": 400
+},
+"Tennis Headband": {
+"brand": "Tentatek",
+"cost": 300
+},
+"Jogging Headband": {
+"brand": "Zekko",
+"cost": 400
+},
+"Soccer Headband": {
+"brand": "Tentatek",
+"cost": 3000
+},
+"FishFry Biscuit Bandana": {
+"brand": "Firefin",
+"cost": 1250
+},
+"Black FishFry Bandana": {
+"brand": "Firefin",
+"cost": 1250
+},
+"Squidband": {
+"brand": "Zink",
+"cost": 400
+},
+"Tentaclinger Earring": {
+"brand": "Toni Kensa",
+"cost": 12800
+},
+"Headlamp Helmet": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Dust Blocker 2000": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Welding Mask": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Beekeeper Hat": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Octoleet Goggles": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Cap of Legend": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Worker's Head Towel": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Worker's Cap": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Sailor Cap": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Bream-Brim Cap": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Lo-Vis Visor": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Five-Alarm Helmet": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Astro Helm": {
+"brand": "Grizzco",
+"cost": 0
+},
+"360 All-Scopes": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Brain Strainer": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Deep Sinker Helm": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Commander Cap": {
+"brand": "Grizzco",
+"cost": 0
+},
+"See-an-Enemy HUD": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Retro Future Helmet": {
+"brand": "Grizzco",
+"cost": 0
+},
+"3D Glasses": {
+"brand": "Grizzco",
+"cost": 0
+},
+"El Rey Calamar": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Octavio Dome": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Hard Hat Replica": {
+"brand": "Grizzco",
+"cost": 0
+},
+"Kyonshi Hat": {
+"brand": "SquidForce",
+"cost": 9500
+},
+"Li'l Devil Horns": {
+"brand": "SquidForce",
+"cost": 7700
+},
+"Hockey Mask": {
+"brand": "SquidForce",
+"cost": 8800
+},
+"Anglerfish Mask": {
+"brand": "SquidForce",
+"cost": 6980
+},
+"Festive Party Cone": {
+"brand": "SquidForce",
+"cost": 7900
+},
+"New Year's Glasses DX": {
+"brand": "SquidForce",
+"cost": 9102
+},
+"Twisty Headband": {
+"brand": "SquidForce",
+"cost": 11800
+},
+"Eel-Cake Hat": {
+"brand": "SquidForce",
+"cost": 8200
+},
+"Purple Novelty Visor": {
+"brand": "Tentatek",
+"cost": 8800
+},
+"Green Novelty Visor": {
+"brand": "Tentatek",
+"cost": 8800
+},
+"Orange Novelty Visor": {
+"brand": "Tentatek",
+"cost": 8800
+},
+"Pink Novelty Visor": {
+"brand": "Tentatek",
+"cost": 8800
+},
+"Jetflame Crest": {
+"brand": "SquidForce",
+"cost": 10080
+},
+"Fierce Fishskull": {
+"brand": "SquidForce",
+"cost": 9120
+},
+"Hivemind Antenna": {
+"brand": "SquidForce",
+"cost": 7800
+},
+"Eye of Justice": {
+"brand": "SquidForce",
+"cost": 11111
+},
+"Undead Head": {
+"brand": "SquidForce",
+"cost": 11111
+},
+"The Plankton Walker": {
+"brand": "SquidForce",
+"cost": 11111
+},
+"Swim Reaper": {
+"brand": "SquidForce",
+"cost": 11111
+},
+"Bleak Beak": {
+"brand": "SquidForce",
+"cost": 11111
+},
+"Dapperdasher Hat": {
+"brand": "SquidForce",
+"cost": 11111
+},
+"Coral Wreath": {
+"brand": "SquidForce",
+"cost": 11111
+},
+"Golden Gala Masque": {
+"brand": "SquidForce",
+"cost": 11111
+},
+"Octopearl Crown": {
+"brand": "SquidForce",
+"cost": 11111
+},
+"Teal Pinhole Shades": {
+"brand": "SquidForce",
+"cost": 650
+},
+"Green Pinhole Shades": {
+"brand": "SquidForce",
+"cost": 650
+},
+"Pink Pinhole Shades": {
+"brand": "SquidForce",
+"cost": 650
+},
+"Yellow Pinhole Shades": {
+"brand": "SquidForce",
+"cost": 650
+},
+"Lionfish Funface": {
+"brand": "SquidForce",
+"cost": 8800
+},
+"Cowfish Funface": {
+"brand": "SquidForce",
+"cost": 8800
+},
+"ZedFry Funface": {
+"brand": "SquidForce",
+"cost": 8800
+},
+"Monkey-Crab Funface": {
+"brand": "SquidForce",
+"cost": 8800
+},
+"Fox Funface": {
+"brand": "SquidForce",
+"cost": 8800
+},
+"Cartoony Funface": {
+"brand": "SquidForce",
+"cost": 8800
+},
+"Now or Never Spikes": {
+"brand": "SquidForce",
+"cost": 8800
+},
+"Now or Never Crown": {
+"brand": "SquidForce",
+"cost": 8800
+},
+"Now or Never Cap": {
+"brand": "SquidForce",
+"cost": 8800
+},
+"Now or Never Earrings": {
+"brand": "SquidForce",
+"cost": 8800
+},
+"Now or Never Barrette": {
+"brand": "SquidForce",
+"cost": 8800
+},
+"Now or Never Horns": {
+"brand": "SquidForce",
+"cost": 8800
+},
+"Now or Never Headdress": {
+"brand": "SquidForce",
+"cost": 8800
+},
+"Squid Hairclip": {
+"brand": "amiibo",
+"cost": 0
+},
+"Samurai Helmet": {
+"brand": "amiibo",
+"cost": 0
+},
+"Power Mask": {
+"brand": "amiibo",
+"cost": 0
+},
+"Squid Clip-Ons": {
+"brand": "amiibo",
+"cost": 0
+},
+"Squinja Mask Mk II": {
+"brand": "amiibo",
+"cost": 0
+},
+"Power Mask Mk I": {
+"brand": "amiibo",
+"cost": 0
+},
+"Pearlescent Crown S": {
+"brand": "amiibo",
+"cost": 0
+},
+"Marinated Headphones": {
+"brand": "amiibo",
+"cost": 0
+},
+"Enchanted Hat": {
+"brand": "amiibo",
+"cost": 0
+},
+"Steel Helm": {
+"brand": "amiibo",
+"cost": 0
+},
+"Fresh Fish Head": {
+"brand": "amiibo",
+"cost": 0
+},
+"Boss Floss": {
+"brand": "amiibo",
+"cost": 0
+},
+"Sushi Sous-Chef Band": {
+"brand": "amiibo",
+"cost": 1250
+},
+"Chaos Helm": {
+"brand": "amiibo",
+"cost": 10500
+},
+"Squinja Mask Mk I": {
+"brand": "amiibo",
+"cost": 0
+},
+"Pearlescent Crown L": {
+"brand": "amiibo",
+"cost": 0
+},
+"Hohojiro Mask": {
+"brand": "amiibo",
+"cost": 0
+},
+"Onaga Mask": {
+"brand": "amiibo",
+"cost": 0
+},
+"Manta Mask": {
+"brand": "amiibo",
+"cost": 0
+},
+"World Tour Crown": {
+"brand": "amiibo",
+"cost": 0
+},
+"World Tour Headphones": {
+"brand": "amiibo",
+"cost": 0
+},
+"Hero Headset Replica": {
+"brand": "Cuttlegear",
+"cost": 0
+},
+"Armor Helmet Replica": {
+"brand": "Cuttlegear",
+"cost": 0
+},
+"Teddy Band": {
+"brand": "Cuttlegear",
+"cost": 0
+},
+"Hero Mindset Replica": {
+"brand": "Cuttlegear",
+"cost": 0
+},
+"Hero Grip Replica": {
+"brand": "Cuttlegear",
+"cost": 0
+},
+"Captain's Cap Replica": {
+"brand": "Cuttlegear",
+"cost": 0
+},
+"Stay Crusty Cap": {
+"brand": "SquidForce",
+"cost": 850
+},
+"Judicial Hearing": {
+"brand": "SquidForce",
+"cost": 3500
+},
+"Order Earring Replica": {
+"brand": "Cuttlegear",
+"cost": 0
+},
+"Order Regulator Replica": {
+"brand": "Cuttlegear",
+"cost": 0
+},
+"Controller VM": {
+"brand": "Cuttlegear",
+"cost": 0
+},
+"Parallel Mask": {
+"brand": "Cuttlegear",
+"cost": 0
+},
+"Pearl Plushie": {
+"brand": "Cuttlegear",
+"cost": 0
+}
+
+}
