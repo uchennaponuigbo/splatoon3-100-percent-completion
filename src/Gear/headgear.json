@@ -3,1596 +3,1862 @@
 "brand": "SquidForce",
 "price": 300,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Urchins Cap": {
 "brand": "Skalop",
 "price": 600,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Lightweight Cap": {
 "brand": "Inkline",
 "price": 800,
 "rarity": 0,
+"how to get": "Shop",
 "season": 2
 },
 "Takoroka Mesh": {
 "brand": "Takoroka",
 "price": 400,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Streetstyle Cap": {
 "brand": "Skalop",
 "price": 600,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Squid-Stitch Cap": {
 "brand": "Skalop",
 "price": 8500,
 "rarity": 2,
+"how to get": "Shop",
 "season": 2
 },
 "Squidvader Cap": {
 "brand": "Skalop",
 "price": 1300,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Camo Mesh": {
 "brand": "Firefin",
 "price": 1400,
 "rarity": 0,
+"how to get": "Shop",
 "season": 3
 },
 "Five-Panel Cap": {
 "brand": "Zekko",
 "price": 1800,
 "rarity": 1,
+"how to get": "Shop",
 "season": 3
 },
 "Zekko Mesh": {
 "brand": "Zekko",
 "price": 500,
 "rarity": 0,
+"how to get": "Shop",
 "season": 3
 },
 "Backward Cap": {
 "brand": "Zekko",
 "price": 700,
 "rarity": 0,
+"how to get": "Shop",
 "season": 3
 },
 "Two-Stripe Mesh": {
 "brand": "Krak-On",
 "price": 700,
 "rarity": 0,
+"how to get": "Shop",
 "season": 3
 },
 "Jet Cap": {
 "brand": "Firefin",
 "price": 700,
 "rarity": 0,
+"how to get": "Shop",
 "season": 3
 },
 "Cycling Cap": {
 "brand": "Zink",
 "price": 800,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Cycle King Cap": {
 "brand": "Tentatek",
 "price": 2400,
 "rarity": 1,
+"how to get": "Shop",
 "season": 3
 },
 "Long-Billed Cap": {
 "brand": "Krak-On",
 "price": 9800,
 "rarity": 2,
+"how to get": "Shop",
 "season": 7
 },
 "King Flip Mesh": {
 "brand": "Enperry",
 "price": 3200,
 "rarity": 1,
+"how to get": "Shop",
 "season": 7
 },
 "Hickory Work Cap": {
 "brand": "Krak-On",
 "price": 8700,
 "rarity": 2,
+"how to get": "Shop",
 "season": 0
 },
 "Woolly Urchins Classic": {
 "brand": "Krak-On",
 "price": 3800,
 "rarity": 1,
+"how to get": "Shop",
 "season": 0
 },
 "Jellyvader Cap": {
 "brand": "Skalop",
 "price": 10000,
 "rarity": 2,
+"how to get": "Shop",
 "season": 2
 },
 "House-Tag Denim Cap": {
 "brand": "Splash Mob",
 "price": 5200,
 "rarity": 1,
+"how to get": "Shop",
 "season": 2
 },
 "Blowfish Newsie": {
 "brand": "Firefin",
 "price": 4200,
 "rarity": 1,
+"how to get": "Shop",
 "season": 7
 },
 "Do-Rag, Cap & Glasses": {
 "brand": "Skalop",
 "price": 9500,
 "rarity": 2,
+"how to get": "Shop",
 "season": 4
 },
 "Pilot Hat": {
 "brand": "Splash Mob",
 "price": 11500,
 "rarity": 2,
+"how to get": "Shop",
 "season": 7
 },
 "Ink-Black Flap Cap": {
 "brand": "Barazushi",
 "price": 11200,
 "rarity": 2,
+"how to get": "Shop",
 "season": 0
 },
 "Coral Cap": {
 "brand": "Skalop",
 "price": 1000,
 "rarity": 0,
+"how to get": "Catalog",
 "season": 8
 },
 "Barrelfish Baseball Hat": {
 "brand": "Skalop",
 "price": 11500,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 7
 },
 "Cap'n Cap": {
 "brand": "Splash Mob",
 "price": 10500,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 4
 },
 "Vintage Biker Cap": {
 "brand": "Barazushi",
 "price": 11500,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 6
 },
 "Flounder Flap Cap": {
 "brand": "Rockenberg",
 "price": 9000,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 6
 },
 "Dustcloud Cap": {
 "brand": "Z+F",
 "price": 7800,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 3
 },
 "Seafoam Cap": {
 "brand": "Z+F",
 "price": 7800,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 3
 },
 "Wharfside Cap": {
 "brand": "Skalop",
 "price": 5000,
 "rarity": 1,
+"how to get": "Shop",
 "season": 0
 },
 "Clue-Detecting Cap": {
 "brand": "Rockenberg",
 "price": 5000,
 "rarity": 1,
+"how to get": "Catalog",
 "season": 6
 },
 "Headlamp Hat": {
 "brand": "Inkline",
 "price": 5000,
 "rarity": 1,
+"how to get": "Catalog",
 "season": 5
 },
 "Swim Cap": {
 "brand": "Emberz",
 "price": 3200,
 "rarity": 1,
+"how to get": "Catalog",
 "season": 5
 },
 "Bobble Hat": {
 "brand": "Splash Mob",
 "price": 2000,
 "rarity": 1,
+"how to get": "Shop",
 "season": 3
 },
 "Short Beanie": {
 "brand": "Inkline",
 "price": 600,
 "rarity": 0,
+"how to get": "Shop",
 "season": 2
 },
 "Striped Beanie": {
 "brand": "Splash Mob",
 "price": 900,
 "rarity": 0,
+"how to get": "Shop",
 "season": 3
 },
 "Sporty Bobble Hat": {
 "brand": "Skalop",
 "price": 800,
 "rarity": 0,
+"how to get": "Shop",
 "season": 3
 },
 "Special-Forces Beret": {
 "brand": "Forge",
 "price": 9700,
 "rarity": 2,
+"how to get": "Shop",
 "season": 3
 },
 "Squid Nordic": {
 "brand": "Skalop",
 "price": 9500,
 "rarity": 2,
+"how to get": "Shop",
 "season": 3
 },
 "Knitted Hat": {
 "brand": "Firefin",
 "price": 1400,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Annaki Beret": {
 "brand": "Annaki",
 "price": 11500,
 "rarity": 2,
+"how to get": "Shop",
 "season": 2
 },
 "Yamagiri Beanie": {
 "brand": "Inkline",
 "price": 1280,
 "rarity": 0,
+"how to get": "Shop",
 "season": 7
 },
 "Sneaky Beanie": {
 "brand": "Skalop",
 "price": 3000,
 "rarity": 1,
+"how to get": "Shop",
 "season": 7
 },
 "Anglerfish Knit": {
 "brand": "Skalop",
 "price": 3000,
 "rarity": 1,
+"how to get": "Catalog",
 "season": 6
 },
 "ZedFry Beanie": {
 "brand": "Z+F",
 "price": 1111,
 "rarity": 0,
+"how to get": "Catalog",
 "season": 3
 },
 "Retro Specs": {
 "brand": "Splash Mob",
 "price": 500,
 "rarity": 0,
+"how to get": "Shop",
 "season": 2
 },
 "Splash Goggles": {
 "brand": "Forge",
 "price": 2800,
 "rarity": 1,
+"how to get": "Shop",
 "season": 0
 },
 "Pilot Goggles": {
 "brand": "Forge",
 "price": 5500,
 "rarity": 1,
+"how to get": "Shop",
 "season": 1
 },
 "Tinted Shades": {
 "brand": "Zekko",
 "price": 350,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Black Arrowbands": {
 "brand": "Zekko",
 "price": 2800,
 "rarity": 1,
+"how to get": "Shop",
 "season": 3
 },
 "Snorkel Mask": {
 "brand": "Forge",
 "price": 3000,
 "rarity": 1,
+"how to get": "Shop",
 "season": 3
 },
 "White Arrowbands": {
 "brand": "Zekko",
 "price": 8000,
 "rarity": 2,
+"how to get": "Shop",
 "season": 3
 },
 "Fake Contacts": {
 "brand": "Tentatek",
 "price": 2000,
 "rarity": 1,
+"how to get": "Shop",
 "season": 3
 },
 "18K Aviators": {
 "brand": "Rockenberg",
 "price": 12000,
 "rarity": 2,
+"how to get": "Shop",
 "season": 0
 },
 "Full-Moon Glasses": {
 "brand": "Krak-On",
 "price": 600,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Octoglasses": {
 "brand": "Firefin",
 "price": 8800,
 "rarity": 2,
+"how to get": "Shop",
 "season": 3
 },
 "Half-Rim Glasses": {
 "brand": "Splash Mob",
 "price": 4100,
 "rarity": 1,
+"how to get": "Shop",
 "season": 0
 },
 "Double Egg Shades": {
 "brand": "Zekko",
 "price": 2200,
 "rarity": 1,
+"how to get": "Shop",
 "season": 0
 },
 "Zekko Cap": {
 "brand": "Zekko",
 "price": 2700,
 "rarity": 1,
+"how to get": "Shop",
 "season": 7
 },
 "SV925 Circle Shades": {
 "brand": "Rockenberg",
 "price": 11000,
 "rarity": 2,
+"how to get": "Shop",
 "season": 2
 },
 "Annaki Beret & Glasses": {
 "brand": "Annaki",
 "price": 7850,
 "rarity": 2,
+"how to get": "Shop",
 "season": 2
 },
 "Swim Goggles": {
 "brand": "Zink",
 "price": 100,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Ink-Guard Goggles": {
 "brand": "Toni Kensa",
 "price": 9600,
 "rarity": 2,
+"how to get": "Shop",
 "season": 7
 },
 "Toni Kensa Goggles": {
 "brand": "Toni Kensa",
 "price": 200,
 "rarity": 0,
+"how to get": "Shop",
 "season": 2
 },
 "Ink-Tinted Goggles": {
 "brand": "Emberz",
 "price": 10500,
 "rarity": 2,
+"how to get": "Shop",
 "season": 0
 },
 "Retro Framers": {
 "brand": "Enperry",
 "price": 9900,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 1
 },
 "Glassless Glasses": {
 "brand": "Toni Kensa",
 "price": 11000,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 1
 },
 "Triple-Deck Specs": {
 "brand": "Enperry",
 "price": 11300,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 1
 },
 "Invisifloats": {
 "brand": "Inkline",
 "price": 2780,
 "rarity": 1,
+"how to get": "Shop",
 "season": 0
 },
 "Moto Shades": {
 "brand": "Barazushi",
 "price": 10200,
 "rarity": 2,
+"how to get": "Shop",
 "season": 0
 },
 "Annaki Charms": {
 "brand": "Annaki",
 "price": 777,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Glam Clam Specs": {
 "brand": "Splash Mob",
 "price": 10000,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 4
 },
 "Retro BluFocals": {
 "brand": "Emberz",
 "price": 11700,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 1
 },
 "Sea-Me-Nots": {
 "brand": "Z+F",
 "price": 11000,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 3
 },
 "Hipster Horn-Rims": {
 "brand": "Splash Mob",
 "price": 11200,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 2
 },
 "Deluxury Sleep Mask": {
 "brand": "Emberz",
 "price": 1200,
 "rarity": 0,
+"how to get": "Catalog",
 "season": 8
 },
 "Safari Hat": {
 "brand": "Forge",
 "price": 2300,
 "rarity": 1,
+"how to get": "Shop",
 "season": 3
 },
 "Jungle Hat": {
 "brand": "Firefin",
 "price": 9000,
 "rarity": 2,
+"how to get": "Shop",
 "season": 3
 },
 "Camping Hat": {
 "brand": "Inkline",
 "price": 800,
 "rarity": 0,
+"how to get": "Shop",
 "season": 3
 },
 "Blowfish Bell Hat": {
 "brand": "Firefin",
 "price": 850,
 "rarity": 0,
+"how to get": "Shop",
 "season": 2
 },
 "Bamboo Hat": {
 "brand": "Inkline",
 "price": 2200,
 "rarity": 1,
+"how to get": "Shop",
 "season": 0
 },
 "Straw Boater": {
 "brand": "Skalop",
 "price": 550,
 "rarity": 0,
+"how to get": "Shop",
 "season": 3
 },
 "Classic Straw Boater": {
 "brand": "Skalop",
 "price": 1500,
 "rarity": 1,
+"how to get": "Shop",
 "season": 1
 },
 "Treasure Hunter": {
 "brand": "Forge",
 "price": 3000,
 "rarity": 1,
+"how to get": "Shop",
 "season": 3
 },
 "Bucket Hat": {
 "brand": "SquidForce",
 "price": 400,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Patched Hat": {
 "brand": "Skalop",
 "price": 3600,
 "rarity": 1,
+"how to get": "Shop",
 "season": 7
 },
 "Tulip Parasol": {
 "brand": "Inkline",
 "price": 1280,
 "rarity": 0,
+"how to get": "Shop",
 "season": 2
 },
 "Fugu Bell Hat": {
 "brand": "Firefin",
 "price": 1700,
 "rarity": 1,
+"how to get": "Shop",
 "season": 7
 },
 "Seashell Bamboo Hat": {
 "brand": "Inkline",
 "price": 3200,
 "rarity": 1,
+"how to get": "Shop",
 "season": 4
 },
 "Hothouse Hat": {
 "brand": "Skalop",
 "price": 3680,
 "rarity": 1,
+"how to get": "Shop",
 "season": 7
 },
 "Mountie Hat": {
 "brand": "Inkline",
 "price": 13000,
 "rarity": 2,
+"how to get": "Shop",
 "season": 7
 },
 "Classic Bowler": {
 "brand": "Splash Mob",
 "price": 3000,
 "rarity": 1,
+"how to get": "Shop",
 "season": 0
 },
 "Jean Dream Bucket": {
 "brand": "Splash Mob",
 "price": 2100,
 "rarity": 1,
+"how to get": "Shop",
 "season": 0
 },
 "Howdy Hat": {
 "brand": "Rockenberg",
 "price": 13000,
 "rarity": 2,
+"how to get": "Shop",
 "season": 0
 },
 "Urchin Understitch": {
 "brand": "Krak-On",
 "price": 11000,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 5
 },
 "Beachcomber": {
 "brand": "Inkline",
 "price": 9800,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 1
 },
 "Z+F Flair Bowler": {
 "brand": "Z+F",
 "price": 9800,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 3
 },
 "Hat-Trick Bell Hat": {
 "brand": "Z+F",
 "price": 9333,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 3
 },
 "Sauna Hat": {
 "brand": "Inkline",
 "price": 4000,
 "rarity": 1,
+"how to get": "Catalog",
 "season": 8
 },
 "Sea-Lily Hat": {
 "brand": "Rockenberg",
 "price": 4500,
 "rarity": 1,
+"how to get": "Catalog",
 "season": 8
 },
 "Studio Headphones": {
 "brand": "Forge",
 "price": 2800,
 "rarity": 1,
+"how to get": "Shop",
 "season": 1
 },
 "Designer Headphones": {
 "brand": "Forge",
 "price": 2500,
 "rarity": 1,
+"how to get": "Shop",
 "season": 0
 },
 "Noise Cancelers": {
 "brand": "Forge",
 "price": 9200,
 "rarity": 2,
+"how to get": "Shop",
 "season": 4
 },
 "Squidfin Hook Cans": {
 "brand": "Forge",
 "price": 3800,
 "rarity": 1,
+"how to get": "Shop",
 "season": 7
 },
 "Squidlife Headphones": {
 "brand": "Forge",
 "price": 7070,
 "rarity": 2,
+"how to get": "Shop",
 "season": 0
 },
 "Ocho OctoPhones": {
 "brand": "Forge",
 "price": 3000,
 "rarity": 1,
+"how to get": "Shop",
 "season": 0
 },
 "Cephalo Pods": {
 "brand": "Forge",
 "price": 1980,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Ocho OctoPhones Blancos": {
 "brand": "Forge",
 "price": 3000,
 "rarity": 1,
+"how to get": "Catalog",
 "season": 2
 },
 "Aux Boxes": {
 "brand": "Forge",
 "price": 3000,
 "rarity": 1,
+"how to get": "Catalog",
 "season": 5
 },
 "Dustcloud 'Phones": {
 "brand": "Z+F",
 "price": 2500,
 "rarity": 1,
+"how to get": "Catalog",
 "season": 3
 },
 "Seafoam 'Phones": {
 "brand": "Z+F",
 "price": 9000,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 3
 },
 "Golf Visor": {
 "brand": "Zink",
 "price": 400,
 "rarity": 0,
+"how to get": "Shop",
 "season": 3
 },
 "FishFry Visor": {
 "brand": "Firefin",
 "price": 500,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Sun Visor": {
 "brand": "Tentatek",
 "price": 2600,
 "rarity": 1,
+"how to get": "Shop",
 "season": 3
 },
 "Takoroka Visor": {
 "brand": "Takoroka",
 "price": 7500,
 "rarity": 2,
+"how to get": "Shop",
 "season": 0
 },
 "Face Visor": {
 "brand": "Toni Kensa",
 "price": 10300,
 "rarity": 2,
+"how to get": "Shop",
 "season": 0
 },
 "Crust Bucket Visor": {
 "brand": "SquidForce",
 "price": 1200,
 "rarity": 0,
+"how to get": "Catalog",
 "season": 4
 },
 "Tee Time Visor": {
 "brand": "Skalop",
 "price": 1200,
 "rarity": 0,
+"how to get": "Catalog",
 "season": 7
 },
 "Bike Helmet": {
 "brand": "Skalop",
 "price": 4800,
 "rarity": 1,
+"how to get": "Shop",
 "season": 3
 },
 "Stealth Goggles": {
 "brand": "Forge",
 "price": 9800,
 "rarity": 2,
+"how to get": "Shop",
 "season": 3
 },
 "Skate Helmet": {
 "brand": "Skalop",
 "price": 2500,
 "rarity": 1,
+"how to get": "Shop",
 "season": 2
 },
 "Visor Skate Helmet": {
 "brand": "Skalop",
 "price": 8000,
 "rarity": 2,
+"how to get": "Shop",
 "season": 3
 },
 "MTB Helmet": {
 "brand": "Zekko",
 "price": 10500,
 "rarity": 2,
+"how to get": "Shop",
 "season": 2
 },
 "Hockey Helmet": {
 "brand": "Forge",
 "price": 9900,
 "rarity": 2,
+"how to get": "Shop",
 "season": 0
 },
 "Matte Bike Helmet": {
 "brand": "Zekko",
 "price": 10000,
 "rarity": 2,
+"how to get": "Shop",
 "season": 7
 },
 "Octo Tackle Helmet Deco": {
 "brand": "Forge",
 "price": 8888,
 "rarity": 2,
+"how to get": "Shop",
 "season": 2
 },
 "Deca Tackle Visor Helmet": {
 "brand": "Forge",
 "price": 10100,
 "rarity": 2,
+"how to get": "Shop",
 "season": 7
 },
 "Winkle Stripe Helm": {
 "brand": "Skalop",
 "price": 9000,
 "rarity": 2,
+"how to get": "Shop",
 "season": 0
 },
 "Party Hard Hat": {
 "brand": "Forge",
 "price": 12000,
 "rarity": 2,
+"how to get": "Shop",
 "season": 0
 },
 "Home-Team Catcher": {
 "brand": "Forge",
 "price": 1960,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Away-Team Catcher": {
 "brand": "Forge",
 "price": 7700,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 5
 },
 "Scrum Cap": {
 "brand": "Forge",
 "price": 8500,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 2
 },
 "Barrelfish Headgear": {
 "brand": "Forge",
 "price": 10500,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 7
 },
 "Barrelfish Home Helmet": {
 "brand": "Forge",
 "price": 3500,
 "rarity": 1,
+"how to get": "Catalog",
 "season": 4
 },
 "ZedFry Helmet": {
 "brand": "Z+F",
 "price": 8000,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 3
 },
 "Slipstream Helmet Pro": {
 "brand": "Tentatek",
 "price": 9000,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 7
 },
 "Slipstream Helmet": {
 "brand": "Zink",
 "price": 9000,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 7
 },
 "Gas Mask": {
 "brand": "Forge",
 "price": 11000,
 "rarity": 2,
+"how to get": "Shop",
 "season": 3
 },
 "Paintball Mask": {
 "brand": "Forge",
 "price": 10000,
 "rarity": 2,
+"how to get": "Shop",
 "season": 3
 },
 "Paisley Bandana": {
 "brand": "Krak-On",
 "price": 750,
 "rarity": 0,
+"how to get": "Shop",
 "season": 2
 },
 "Skull Bandana": {
 "brand": "Forge",
 "price": 7800,
 "rarity": 2,
+"how to get": "Shop",
 "season": 2
 },
 "Painter's Mask": {
 "brand": "SquidForce",
 "price": 4500,
 "rarity": 1,
+"how to get": "Shop",
 "season": 2
 },
 "Annaki Mask": {
 "brand": "Annaki",
 "price": 3600,
 "rarity": 1,
+"how to get": "Shop",
 "season": 0
 },
 "Octoking Facemask": {
 "brand": "Enperry",
 "price": 1450,
 "rarity": 0,
+"how to get": "Shop",
 "season": 2
 },
 "Squid Facemask": {
 "brand": "SquidForce",
 "price": 300,
 "rarity": 0,
+"how to get": "Shop",
 "season": 2
 },
 "Firefin Facemask": {
 "brand": "Firefin",
 "price": 650,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "King Facemask": {
 "brand": "Enperry",
 "price": 500,
 "rarity": 0,
+"how to get": "Shop",
 "season": 7
 },
 "Motocross Nose Guard": {
 "brand": "Forge",
 "price": 7600,
 "rarity": 2,
+"how to get": "Shop",
 "season": 7
 },
 "Forge Mask": {
 "brand": "Forge",
 "price": 1400,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Digi-Camo Forge Mask": {
 "brand": "Forge",
 "price": 1800,
 "rarity": 1,
+"how to get": "Shop",
 "season": 7
 },
 "BlobMob Mask": {
 "brand": "Emberz",
 "price": 825,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Air Gills DX": {
 "brand": "SquidForce",
 "price": 825,
 "rarity": 0,
+"how to get": "Catalog",
 "season": 1
 },
 "Squidbeak Shield": {
 "brand": "Toni Kensa",
 "price": 4000,
 "rarity": 1,
+"how to get": "Shop",
 "season": 0
 },
 "Meetcha Mask": {
 "brand": "Emberz",
 "price": 500,
 "rarity": 0,
+"how to get": "Catalog",
 "season": 6
 },
 "Stealth Squidbeak Shield": {
 "brand": "Toni Kensa",
 "price": 4400,
 "rarity": 1,
+"how to get": "Catalog",
 "season": 4
 },
 "Snaxolotl Hood": {
 "brand": "Z+F",
 "price": 11111,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 8
 },
 "B-ball Headband": {
 "brand": "Zink",
 "price": 300,
 "rarity": 0,
+"how to get": "Shop",
 "season": 3
 },
 "Squash Headband": {
 "brand": "Zink",
 "price": 400,
 "rarity": 0,
+"how to get": "Shop",
 "season": 3
 },
 "Tennis Headband": {
 "brand": "Tentatek",
 "price": 300,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Jogging Headband": {
 "brand": "Zekko",
 "price": 400,
 "rarity": 0,
+"how to get": "Shop",
 "season": 3
 },
 "Soccer Headband": {
 "brand": "Tentatek",
 "price": 3000,
 "rarity": 1,
+"how to get": "Shop",
 "season": 3
 },
 "FishFry Biscuit Bandana": {
 "brand": "Firefin",
 "price": 1250,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Black FishFry Bandana": {
 "brand": "Firefin",
 "price": 1250,
 "rarity": 0,
+"how to get": "Shop",
 "season": 7
 },
 "Squidband": {
 "brand": "Zink",
 "price": 400,
 "rarity": 0,
+"how to get": "Shop",
 "season": 0
 },
 "Tentaclinger Earring": {
 "brand": "Toni Kensa",
 "price": 12800,
 "rarity": 2,
+"how to get": "Catalog",
 "season": 2
 },
 "Headlamp Helmet": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Uroko",
 "season": 3
 },
 "Dust Blocker 2000": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Uroko",
 "season": 3
 },
 "Welding Mask": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Uroko",
 "season": 5
 },
 "Beekeeper Hat": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Uroko",
 "season": 8
 },
 "Octoleet Goggles": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Uroko",
 "season": 7
 },
 "Cap of Legend": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Uroko",
 "season": 5
 },
 "Worker's Head Towel": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Uroko",
 "season": 7
 },
 "Worker's Cap": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Uroko",
 "season": 8
 },
 "Sailor Cap": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Uroko",
 "season": 8
 },
 "Bream-Brim Cap": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Other",
 "season": 1
 },
 "Lo-Vis Visor": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Other",
 "season": 1
 },
 "Five-Alarm Helmet": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Other",
 "season": 2
 },
 "Astro Helm": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Other",
 "season": 1
 },
 "360 All-Scopes": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Other",
 "season": 2
 },
 "Brain Strainer": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Other",
 "season": 1
 },
 "Deep Sinker Helm": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Other",
 "season": 2
 },
 "Commander Cap": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Other",
 "season": 3
 },
 "See-an-Enemy HUD": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Other",
 "season": 4
 },
 "Retro Future Helmet": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Other",
 "season": 4
 },
 "3D Glasses": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Other",
 "season": 5
 },
 "El Rey Calamar": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Other",
 "season": 7
 },
 "Octavio Dome": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Other",
 "season": 8
 },
 "Hard Hat Replica": {
 "brand": "Grizzco",
 "price": 0,
 "rarity": 2,
+"how to get": "Other",
 "season": 8
 },
 "Kyonshi Hat": {
 "brand": "SquidForce",
 "price": 9500,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Li'l Devil Horns": {
 "brand": "SquidForce",
 "price": 7700,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Hockey Mask": {
 "brand": "SquidForce",
 "price": 8800,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Anglerfish Mask": {
 "brand": "SquidForce",
 "price": 6980,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Festive Party Cone": {
 "brand": "SquidForce",
 "price": 7900,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "New Year's Glasses DX": {
 "brand": "SquidForce",
 "price": 9102,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Twisty Headband": {
 "brand": "SquidForce",
 "price": 11800,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Eel-Cake Hat": {
 "brand": "SquidForce",
 "price": 8200,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Purple Novelty Visor": {
 "brand": "Tentatek",
 "price": 8800,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Green Novelty Visor": {
 "brand": "Tentatek",
 "price": 8800,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Orange Novelty Visor": {
 "brand": "Tentatek",
 "price": 8800,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Pink Novelty Visor": {
 "brand": "Tentatek",
 "price": 8800,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Jetflame Crest": {
 "brand": "SquidForce",
 "price": 10080,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Fierce Fishskull": {
 "brand": "SquidForce",
 "price": 9120,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Hivemind Antenna": {
 "brand": "SquidForce",
 "price": 7800,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Eye of Justice": {
 "brand": "SquidForce",
 "price": 11111,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Undead Head": {
 "brand": "SquidForce",
 "price": 11111,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "The Plankton Walker": {
 "brand": "SquidForce",
 "price": 11111,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Swim Reaper": {
 "brand": "SquidForce",
 "price": 11111,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Bleak Beak": {
 "brand": "SquidForce",
 "price": 11111,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Dapperdasher Hat": {
 "brand": "SquidForce",
 "price": 11111,
 "rarity": 2,
+"how to get": "Other",
 "season": 6
 },
 "Coral Wreath": {
 "brand": "SquidForce",
 "price": 11111,
 "rarity": 2,
+"how to get": "Other",
 "season": 6
 },
 "Golden Gala Masque": {
 "brand": "SquidForce",
 "price": 11111,
 "rarity": 2,
+"how to get": "Other",
 "season": 6
 },
 "Octopearl Crown": {
 "brand": "SquidForce",
 "price": 11111,
 "rarity": 2,
+"how to get": "Other",
 "season": 6
 },
 "Teal Pinhole Shades": {
 "brand": "SquidForce",
 "price": 650,
 "rarity": 0,
+"how to get": "Other",
 "season": 7
 },
 "Green Pinhole Shades": {
 "brand": "SquidForce",
 "price": 650,
 "rarity": 0,
+"how to get": "Other",
 "season": 7
 },
 "Pink Pinhole Shades": {
 "brand": "SquidForce",
 "price": 650,
 "rarity": 0,
+"how to get": "Other",
 "season": 7
 },
 "Yellow Pinhole Shades": {
 "brand": "SquidForce",
 "price": 650,
 "rarity": 0,
+"how to get": "Other",
 "season": 7
 },
 "Lionfish Funface": {
 "brand": "SquidForce",
 "price": 8800,
 "rarity": 2,
+"how to get": "Other",
 "season": 8
 },
 "Cowfish Funface": {
 "brand": "SquidForce",
 "price": 8800,
 "rarity": 2,
+"how to get": "Other",
 "season": 8
 },
 "ZedFry Funface": {
 "brand": "SquidForce",
 "price": 8800,
 "rarity": 2,
+"how to get": "Other",
 "season": 8
 },
 "Monkey-Crab Funface": {
 "brand": "SquidForce",
 "price": 8800,
 "rarity": 2,
+"how to get": "Other",
 "season": 8
 },
 "Fox Funface": {
 "brand": "SquidForce",
 "price": 8800,
 "rarity": 2,
+"how to get": "Other",
 "season": 8
 },
 "Cartoony Funface": {
 "brand": "SquidForce",
 "price": 8800,
 "rarity": 2,
+"how to get": "Other",
 "season": 8
 },
 "Now or Never Spikes": {
 "brand": "SquidForce",
 "price": 8800,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Now or Never Crown": {
 "brand": "SquidForce",
 "price": 8800,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Now or Never Cap": {
 "brand": "SquidForce",
 "price": 8800,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Now or Never Earrings": {
 "brand": "SquidForce",
 "price": 8800,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Now or Never Barrette": {
 "brand": "SquidForce",
 "price": 8800,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Now or Never Horns": {
 "brand": "SquidForce",
 "price": 8800,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Now or Never Headdress": {
 "brand": "SquidForce",
 "price": 8800,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Squid Hairclip": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": 1
 },
 "Samurai Helmet": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": 1
 },
 "Power Mask": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": 1
 },
 "Squid Clip-Ons": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": 1
 },
 "Squinja Mask Mk II": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": 1
 },
 "Power Mask Mk I": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": 1
 },
 "Pearlescent Crown S": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": 1
 },
 "Marinated Headphones": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": 1
 },
 "Enchanted Hat": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": 1
 },
 "Steel Helm": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": 1
 },
 "Fresh Fish Head": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": 1
 },
 "Boss Floss": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": -1
 },
 "Sushi Sous-Chef Band": {
 "brand": "amiibo",
 "price": 1250,
 "rarity": 1,
+"how to get": "Other",
 "season": -1
 },
 "Chaos Helm": {
 "brand": "amiibo",
 "price": 10500,
 "rarity": 1,
+"how to get": "Other",
 "season": -1
 },
 "Squinja Mask Mk I": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": 1
 },
 "Pearlescent Crown L": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": 1
 },
 "Hohojiro Mask": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": -1
 },
 "Onaga Mask": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": -1
 },
 "Manta Mask": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": -1
 },
 "World Tour Crown": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": -1
 },
 "World Tour Headphones": {
 "brand": "amiibo",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": -1
 },
 "Hero Headset Replica": {
 "brand": "Cuttlegear",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": 1
 },
 "Armor Helmet Replica": {
 "brand": "Cuttlegear",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": 1
 },
 "Teddy Band": {
 "brand": "Cuttlegear",
 "price": 0,
 "rarity": 2,
+"how to get": "Other",
 "season": 0
 },
 "Hero Mindset Replica": {
 "brand": "Cuttlegear",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": 0
 },
 "Hero Grip Replica": {
 "brand": "Cuttlegear",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": -1
 },
 "Captain's Cap Replica": {
 "brand": "Cuttlegear",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": -1
 },
 "Stay Crusty Cap": {
 "brand": "SquidForce",
 "price": 850,
 "rarity": 1,
+"how to get": "Other",
 "season": 1
 },
 "Judicial Hearing": {
 "brand": "SquidForce",
 "price": 3500,
 "rarity": 1,
+"how to get": "Other",
 "season": 8
 },
 "Order Earring Replica": {
 "brand": "Cuttlegear",
 "price": 0,
 "rarity": 1,
+"how to get": "Other",
 "season": -1
 },
 "Order Regulator Replica": {
 "brand": "Cuttlegear",
 "price": 0,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Controller VM": {
 "brand": "Cuttlegear",
 "price": 0,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 },
 "Parallel Mask": {
 "brand": "Cuttlegear",
 "price": 0,
-"rarity": 2,
+"rarity": 2, 
+"how to get": "Other",
 "season": -1
 },
 "Pearl Plushie": {
 "brand": "Cuttlegear",
 "price": 0,
 "rarity": 2,
+"how to get": "Other",
 "season": -1
 }
 

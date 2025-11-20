@@ -1,0 +1,1732 @@
+{
+"Cream Basics": {
+"brand": "Krak-On",
+"price": 300,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Blue Lo-Tops": {
+"brand": "Zekko",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Banana Basics": {
+"brand": "Krak-On",
+"price": 400,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"LE Lo-Tops": {
+"brand": "Zekko",
+"price": 8000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 3
+},
+"White Seahorses": {
+"brand": "Zink",
+"price": 600,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Orange Lo-Tops": {
+"brand": "Zekko",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Black Seahorses": {
+"brand": "Zink",
+"price": 2000,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Clownfish Basics": {
+"brand": "Krak-On",
+"price": 500,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Yellow Seahorses": {
+"brand": "Zink",
+"price": 1500,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"White 3-Straps": {
+"brand": "Splash Mob",
+"price": 8700,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Red 3-Straps": {
+"brand": "Splash Mob",
+"price": 1400,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Soccer Shoes": {
+"brand": "Takoroka",
+"price": 9600,
+"rarity": 2,
+"how to get": "Shop",
+"season": 2
+},
+"LE Soccer Shoes": {
+"brand": "Takoroka",
+"price": 7500,
+"rarity": 2,
+"how to get": "Shop",
+"season": 3
+},
+"Sunny Climbing Shoes": {
+"brand": "Inkline",
+"price": 3200,
+"rarity": 1,
+"how to get": "Shop",
+"season": 2
+},
+"Birch Climbing Shoes": {
+"brand": "Inkline",
+"price": 1200,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Green Lace-Ups": {
+"brand": "Splash Mob",
+"price": 1300,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"White Laceless Dakroniks": {
+"brand": "Zink",
+"price": 1800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Blue Laceless Dakroniks": {
+"brand": "Zink",
+"price": 1400,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Suede Gray Lace-Ups": {
+"brand": "Zekko",
+"price": 1200,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Suede Nation Lace-Ups": {
+"brand": "Zekko",
+"price": 4200,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Suede Marine Lace-Ups": {
+"brand": "Zekko",
+"price": 1200,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Toni Kensa Soccer Shoes": {
+"brand": "Toni Kensa",
+"price": 10500,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Wasabi Tabi": {
+"brand": "Tentatek",
+"price": 10500,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Suede Basics": {
+"brand": "Barazushi",
+"price": 8200,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Ink-Black Clam 600s": {
+"brand": "Toni Kensa",
+"price": 11500,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 1
+},
+"Suede Bosses": {
+"brand": "Barazushi",
+"price": 8200,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"White Clam 600s": {
+"brand": "Toni Kensa",
+"price": 11260,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 2
+},
+"Stamina Cycling Shoes": {
+"brand": "Zink",
+"price": 8200,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 7
+},
+"Energy Cycling Shoes": {
+"brand": "Zink",
+"price": 8200,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 7
+},
+"Red Hi-Horses": {
+"brand": "Zink",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Zombie Hi-Horses": {
+"brand": "Zink",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Cream Hi-Tops": {
+"brand": "Krak-On",
+"price": 500,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Purple Hi-Horses": {
+"brand": "Zink",
+"price": 1000,
+"rarity": 0,
+"how to get": "Shop",
+"season": 1
+},
+"Hunter Hi-Tops": {
+"brand": "Krak-On",
+"price": 500,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Red Hi-Tops": {
+"brand": "Krak-On",
+"price": 1800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Gold Hi-Horses": {
+"brand": "Zink",
+"price": 7000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 2
+},
+"Shark Moccasins": {
+"brand": "Splash Mob",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 2
+},
+"Mawcasins": {
+"brand": "Splash Mob",
+"price": 2400,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Chocolate Dakroniks": {
+"brand": "Zink",
+"price": 1700,
+"rarity": 1,
+"how to get": "Shop",
+"season": 2
+},
+"Cyan Dakroniks": {
+"brand": "Zink",
+"price": 1200,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Black Dakroniks": {
+"brand": "Zink",
+"price": 1500,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Piranha Moccasins": {
+"brand": "Splash Mob",
+"price": 9400,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"White Norimaki 750s": {
+"brand": "Tentatek",
+"price": 3800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Black Norimaki 750s": {
+"brand": "Tentatek",
+"price": 9800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Sunset Orca Hi-Tops": {
+"brand": "Takoroka",
+"price": 3800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Red & Black Squidkid IV": {
+"brand": "Enperry",
+"price": 11000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Blue & Black Squidkid IV": {
+"brand": "Enperry",
+"price": 11000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Gray Sea-Slug Hi-Tops": {
+"brand": "Tentatek",
+"price": 8500,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Orca Hi-Tops": {
+"brand": "Takoroka",
+"price": 2800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Navy Enperrials": {
+"brand": "Enperry",
+"price": 11000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Amber Sea Slug Hi-Tops": {
+"brand": "Tentatek",
+"price": 11000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Yellow Iromaki 750s": {
+"brand": "Tentatek",
+"price": 1050,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Red & White Squidkid V": {
+"brand": "Enperry",
+"price": 12800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 2
+},
+"Honey & Orange Squidkid V": {
+"brand": "Enperry",
+"price": 5800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Sun & Shade Squidkid IV": {
+"brand": "Enperry",
+"price": 13000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Orca Woven Hi-Tops": {
+"brand": "Takoroka",
+"price": 3600,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Green Iromaki 750s": {
+"brand": "Tentatek",
+"price": 1050,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Purple Iromaki 750s": {
+"brand": "Tentatek",
+"price": 1050,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Red Iromaki 750s": {
+"brand": "Tentatek",
+"price": 1050,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Blue Iromaki 750s": {
+"brand": "Tentatek",
+"price": 1050,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Orange Iromaki 750s": {
+"brand": "Tentatek",
+"price": 1050,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Red Power Stripes": {
+"brand": "Takoroka",
+"price": 5880,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Blue Power Stripes": {
+"brand": "Takoroka",
+"price": 4880,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Toni Kensa Black Hi-Tops": {
+"brand": "Toni Kensa",
+"price": 9880,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Sesame Salt 270s": {
+"brand": "Tentatek",
+"price": 3260,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Black & Blue Squidkid V": {
+"brand": "Enperry",
+"price": 12800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Orca Passion Hi-Tops": {
+"brand": "Takoroka",
+"price": 2780,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Truffle Canvas Hi-Tops": {
+"brand": "Krak-On",
+"price": 1350,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Force ReBoots": {
+"brand": "Takoroka",
+"price": 899,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Tenya OctoReds": {
+"brand": "Tentatek",
+"price": 2900,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Tenya OctoPurps": {
+"brand": "Tentatek",
+"price": 7980,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 4
+},
+"Pearl 01STERs": {
+"brand": "Toni Kensa",
+"price": 8800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Zebrafish Hi-Tops": {
+"brand": "Toni Kensa",
+"price": 4200,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 2
+},
+"Dustcloud Hi-Tops": {
+"brand": "Z+F",
+"price": 8800,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 3
+},
+"Seafoam Hi-Tops": {
+"brand": "Z+F",
+"price": 9500,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 3
+},
+"White Lo-Vert Hi-Tops": {
+"brand": "Barazushi",
+"price": 10200,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 4
+},
+"Blue & Black Squidkid III": {
+"brand": "Enperry",
+"price": 1200,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 5
+},
+"Red & White Squidkid III": {
+"brand": "Enperry",
+"price": 1200,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 5
+},
+"Onyx 01STERs": {
+"brand": "Toni Kensa",
+"price": 8880,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 2
+},
+"Crab-Trap Squidkid III": {
+"brand": "Enperry",
+"price": 8500,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 7
+},
+"Pink Trainers": {
+"brand": "Tentatek",
+"price": 500,
+"rarity": 0,
+"how to get": "Shop",
+"season": 1
+},
+"Orange Arrows": {
+"brand": "Takoroka",
+"price": 1100,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Neon Sea Slugs": {
+"brand": "Tentatek",
+"price": 700,
+"rarity": 0,
+"how to get": "Shop",
+"season": 2
+},
+"White Arrows": {
+"brand": "Takoroka",
+"price": 2500,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Cyan Trainers": {
+"brand": "Tentatek",
+"price": 700,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Blue Sea Slugs": {
+"brand": "Tentatek",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Red Sea Slugs": {
+"brand": "Tentatek",
+"price": 8000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 3
+},
+"Purple Sea Slugs": {
+"brand": "Tentatek",
+"price": 1800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Crazy Arrows": {
+"brand": "Takoroka",
+"price": 4500,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Black Trainers": {
+"brand": "Tentatek",
+"price": 500,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Violet Trainers": {
+"brand": "Tentatek",
+"price": 1000,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Canary Trainers": {
+"brand": "Tentatek",
+"price": 900,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Yellow-Mesh Sneakers": {
+"brand": "Tentatek",
+"price": 1300,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Arrow Pull-Ons": {
+"brand": "Toni Kensa",
+"price": 10000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Orange-Mesh Sneakers": {
+"brand": "Tentatek",
+"price": 1700,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"N-Pacer CaO": {
+"brand": "Enperry",
+"price": 3900,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"N-Pacer Ag": {
+"brand": "Enperry",
+"price": 4900,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"N-Pacer Au": {
+"brand": "Enperry",
+"price": 8900,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Sea Slug Volt 95s": {
+"brand": "Tentatek",
+"price": 3260,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Athletic Arrows": {
+"brand": "Takoroka",
+"price": 1200,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"U Jellys": {
+"brand": "Tentatek",
+"price": 2200,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Hyper Guppies": {
+"brand": "Tentatek",
+"price": 1300,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 4
+},
+"Turbo Tabi Red": {
+"brand": "Tentatek",
+"price": 2200,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"E-JECT 30XX": {
+"brand": "Emberz",
+"price": 2600,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Slamgerine Slip-Ons": {
+"brand": "Takoroka",
+"price": 7980,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Mako Bucket Hi-Tops": {
+"brand": "Emberz",
+"price": 2800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Blue Shrimpsiders": {
+"brand": "Enperry",
+"price": 4120,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 1
+},
+"E-JECT 30VV": {
+"brand": "Emberz",
+"price": 2600,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 6
+},
+"OB Gaiter Waders": {
+"brand": "Inkline",
+"price": 4100,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 7
+},
+"AG Gaiter Waders": {
+"brand": "Inkline",
+"price": 4000,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 8
+},
+"Noir Guppies": {
+"brand": "Tentatek",
+"price": 1300,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 7
+},
+"LT-CL0WN": {
+"brand": "Zink",
+"price": 1300,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 8
+},
+"Oyster Clogs": {
+"brand": "Krak-On",
+"price": 600,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Choco Clogs": {
+"brand": "Krak-On",
+"price": 1800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Blueberry Casuals": {
+"brand": "Krak-On",
+"price": 700,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Plum Casuals": {
+"brand": "Krak-On",
+"price": 2000,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Neon Delta Straps": {
+"brand": "Inkline",
+"price": 4800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Black Flip-Flops": {
+"brand": "Zekko",
+"price": 300,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Snow Delta Straps": {
+"brand": "Inkline",
+"price": 8800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Luminous Delta Straps": {
+"brand": "Inkline",
+"price": 5000,
+"rarity": 1,
+"how to get": "Shop",
+"season": 2
+},
+"Red FishFry Sandals": {
+"brand": "Firefin",
+"price": 2880,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Yellow FishFry Sandals": {
+"brand": "Firefin",
+"price": 2880,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Musselforge Flip-Flops": {
+"brand": "Inkline",
+"price": 280,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Cuttlefish Sandies": {
+"brand": "Rockenberg",
+"price": 850,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 1
+},
+"Arrow Toesies Blu": {
+"brand": "Takoroka",
+"price": 980,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"BlobMob Flip-Flops": {
+"brand": "Emberz",
+"price": 400,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Orange Dadfoot Sandals": {
+"brand": "Zink",
+"price": 650,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Arrow Toesies Purp": {
+"brand": "Takoroka",
+"price": 3180,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 4
+},
+"Annaki Strappy Sandals": {
+"brand": "Annaki",
+"price": 890,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 4
+},
+"Squid Bone Unslips": {
+"brand": "Emberz",
+"price": 280,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 5
+},
+"Pink Dadfoot Sandals": {
+"brand": "Zink",
+"price": 650,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Cyan Dadfoot Sandals": {
+"brand": "Zink",
+"price": 650,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Navy Toejamz": {
+"brand": "Z+F",
+"price": 720,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 3
+},
+"Red Toejamz": {
+"brand": "Z+F",
+"price": 940,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 3
+},
+"Yellow Toejamz": {
+"brand": "Z+F",
+"price": 830,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 3
+},
+"Green Toejamz": {
+"brand": "Z+F",
+"price": 1050,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 3
+},
+"Skirmish Sabots": {
+"brand": "Krak-On",
+"price": 1050,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 8
+},
+"Fishbone Sabots": {
+"brand": "Krak-On",
+"price": 1050,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 8
+},
+"Trail Boots": {
+"brand": "Inkline",
+"price": 7500,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Custom Trail Boots": {
+"brand": "Inkline",
+"price": 3000,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Pro Trail Boots": {
+"brand": "Inkline",
+"price": 9800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 4
+},
+"Moto Boots": {
+"brand": "Rockenberg",
+"price": 3800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Tan Work Boots": {
+"brand": "Rockenberg",
+"price": 3000,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Red Work Boots": {
+"brand": "Rockenberg",
+"price": 11000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 2
+},
+"Blue Moto Boots": {
+"brand": "Rockenberg",
+"price": 10800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 3
+},
+"Green Rain Boots": {
+"brand": "Inkline",
+"price": 1600,
+"rarity": 1,
+"how to get": "Shop",
+"season": 2
+},
+"Acerola Rain Boots": {
+"brand": "Inkline",
+"price": 600,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Punk Whites": {
+"brand": "Rockenberg",
+"price": 3800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Punk Cherries": {
+"brand": "Rockenberg",
+"price": 9000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Punk Yellows": {
+"brand": "Rockenberg",
+"price": 3000,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Bubble Rain Boots": {
+"brand": "Inkline",
+"price": 450,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Snowy Down Boots": {
+"brand": "Tentatek",
+"price": 8000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 2
+},
+"Icy Down Boots": {
+"brand": "Tentatek",
+"price": 8200,
+"rarity": 2,
+"how to get": "Shop",
+"season": 4
+},
+"Hunting Boots": {
+"brand": "Splash Mob",
+"price": 11500,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Punk Nights": {
+"brand": "Rockenberg",
+"price": 8800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 2
+},
+"Deepsea Leather Boots": {
+"brand": "Rockenberg",
+"price": 12000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Annaki Arachno Boots": {
+"brand": "Annaki",
+"price": 9696,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"New-Leaf Leather Boots": {
+"brand": "Rockenberg",
+"price": 5000,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Tea-Green Hunting Boots": {
+"brand": "Splash Mob",
+"price": 11500,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Blu-Shift Moto Boots": {
+"brand": "Rockenberg",
+"price": 12000,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 2
+},
+"Skipjack Work Boots": {
+"brand": "Rockenberg",
+"price": 4800,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 1
+},
+"Arctic Duck Boots": {
+"brand": "Barazushi",
+"price": 9200,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Field Duck Boots": {
+"brand": "Barazushi",
+"price": 9200,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 5
+},
+"Red Hammertreads": {
+"brand": "Annaki",
+"price": 10999,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 1
+},
+"Dappled Hammertreads": {
+"brand": "Annaki",
+"price": 9500,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 4
+},
+"Punk Pinks": {
+"brand": "Rockenberg",
+"price": 3600,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 1
+},
+"Fuzzy Boots": {
+"brand": "Barazushi",
+"price": 3600,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 2
+},
+"Transom Note Boots": {
+"brand": "Z+F",
+"price": 9500,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 3
+},
+"Red-Shift Moto Boots": {
+"brand": "Rockenberg",
+"price": 12000,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 5
+},
+"Spiked Duck Boots": {
+"brand": "Barazushi",
+"price": 9200,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 6
+},
+"Buckle-Down Boots": {
+"brand": "Rockenberg",
+"price": 3600,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 6
+},
+"Blue Slip-Ons": {
+"brand": "Krak-On",
+"price": 400,
+"rarity": 0,
+"how to get": "Shop",
+"season": 2
+},
+"Red Slip-Ons": {
+"brand": "Krak-On",
+"price": 300,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Squid-Stitch Slip-Ons": {
+"brand": "Krak-On",
+"price": 1500,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Polka-Dot Slip-Ons": {
+"brand": "Krak-On",
+"price": 1500,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"ZedFry Slip-Ons": {
+"brand": "Z+F",
+"price": 4200,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 3
+},
+"White Kicks": {
+"brand": "Rockenberg",
+"price": 1400,
+"rarity": 0,
+"how to get": "Shop",
+"season": 2
+},
+"Cherry Kicks": {
+"brand": "Rockenberg",
+"price": 2400,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Turquoise Kicks": {
+"brand": "Rockenberg",
+"price": 2800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Squink Wingtips": {
+"brand": "Rockenberg",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 2
+},
+"Roasted Brogues": {
+"brand": "Rockenberg",
+"price": 1200,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Kid Clams": {
+"brand": "Rockenberg",
+"price": 9500,
+"rarity": 2,
+"how to get": "Shop",
+"season": 2
+},
+"Smoky Wingtips": {
+"brand": "Rockenberg",
+"price": 8600,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Navy Red-Soled Wingtips": {
+"brand": "Rockenberg",
+"price": 4600,
+"rarity": 1,
+"how to get": "Shop",
+"season": 2
+},
+"Gray Yellow-Soled Wingtips": {
+"brand": "Rockenberg",
+"price": 4600,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Inky Kid Clams": {
+"brand": "Rockenberg",
+"price": 10500,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Annaki Habaneros": {
+"brand": "Annaki",
+"price": 8880,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Annaki Tigers": {
+"brand": "Annaki",
+"price": 9990,
+"rarity": 2,
+"how to get": "Shop",
+"season": 2
+},
+"Desert Chukkas": {
+"brand": "Barazushi",
+"price": 10200,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Dark-Roast Boaties": {
+"brand": "Rockenberg",
+"price": 2200,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Tricolor Boaties": {
+"brand": "Rockenberg",
+"price": 2200,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 6
+},
+"Bit 'n' Bridle Loafers": {
+"brand": "Annaki",
+"price": 5500,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 8
+},
+"Angry Rain Boots": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Uroko",
+"season": 3
+},
+"Nonslip Senseis": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Uroko",
+"season": 5
+},
+"Octoleet Boots": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Uroko",
+"season": 7
+},
+"Friendship Bracelet": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Uroko",
+"season": 8
+},
+"Flipper Floppers": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Uroko",
+"season": 5
+},
+"Wooden Sandals": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Uroko",
+"season": 8
+},
+"Trevally Derby Rollers": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Other",
+"season": 6
+},
+"Brinestone Boots": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Other",
+"season": 5
+},
+"Knockout Boots": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Other",
+"season": 7
+},
+"Pearl-Scout Lace-Ups": {
+"brand": "Zekko",
+"price": 8021,
+"rarity": 2,
+"how to get": "Other",
+"season": -1
+},
+"Pearlescent Squidkid IV": {
+"brand": "Enperry",
+"price": 12000,
+"rarity": 2,
+"how to get": "Other",
+"season": -1
+},
+"Pearl Punk Crowns": {
+"brand": "Rockenberg",
+"price": 9800,
+"rarity": 2,
+"how to get": "Other",
+"season": -1
+},
+"New-Day Arrows": {
+"brand": "Takoroka",
+"price": 10340,
+"rarity": 2,
+"how to get": "Other",
+"season": -1
+},
+"Marination Lace-Ups": {
+"brand": "Zekko",
+"price": 8018,
+"rarity": 2,
+"how to get": "Other",
+"season": -1
+},
+"Rina Squidkid IV": {
+"brand": "Enperry",
+"price": 11000,
+"rarity": 2,
+"how to get": "Other",
+"season": -1
+},
+"Trooper Power Stripes": {
+"brand": "Takoroka",
+"price": 9600,
+"rarity": 2,
+"how to get": "Other",
+"season": -1
+},
+"Midnight Slip-Ons": {
+"brand": "Krak-On",
+"price": 10140,
+"rarity": 2,
+"how to get": "Other",
+"season": -1
+},
+"Shivery Squidkid III": {
+"brand": "Enperry",
+"price": 8500,
+"rarity": 2,
+"how to get": "Other",
+"season": 7
+},
+"Fried Squidkid III": {
+"brand": "Enperry",
+"price": 8500,
+"rarity": 2,
+"how to get": "Other",
+"season": 7
+},
+"Big Squidkid III": {
+"brand": "Enperry",
+"price": 8500,
+"rarity": 2,
+"how to get": "Other",
+"season": 7
+},
+"Chained DC Toejamz": {
+"brand": "Z+F",
+"price": 800,
+"rarity": 0,
+"how to get": "Other",
+"season": 7
+},
+"Jeweled DC Toejamz": {
+"brand": "Z+F",
+"price": 800,
+"rarity": 0,
+"how to get": "Other",
+"season": 7
+},
+"Swirled DC Toejamz": {
+"brand": "Z+F",
+"price": 800,
+"rarity": 0,
+"how to get": "Other",
+"season": 7
+},
+"Trifecta Duck Boots": {
+"brand": "Barazushi",
+"price": 10000,
+"rarity": 0,
+"how to get": "Other",
+"season": 7
+},
+"Trifecta Hi-Tops": {
+"brand": "Krak-On",
+"price": 800,
+"rarity": 0,
+"how to get": "Other",
+"season": 7
+},
+"Trifecta Sandals": {
+"brand": "Z+F",
+"price": 3500,
+"rarity": 0,
+"how to get": "Other",
+"season": 7
+},
+"School Shoes + Hi Socks": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Samurai Shoes": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Power Boots": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Baggy-Sock Fringe Loafs": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Squinja Boots": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Power Boots Mk I": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Pearlescent Kicks": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Marinated Slip-Ons": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Enchanted Boots": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Steel Greaves": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Fresh Fish Feet": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Knotty Bois": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"Kick Dampeners": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"Chaos Kicks": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"Base School Shoes": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Base Fringed Loafers": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Faux Sharkskin Platfins": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"Eel Heel Socks": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"Big Muds": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"World Tour Boots": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"World Tour Heels": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"Hero Runner Replicas": {
+"brand": "Cuttlegear",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Armor Boot Replicas": {
+"brand": "Cuttlegear",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Hero Boot Replicas": {
+"brand": "Cuttlegear",
+"price": 0,
+"rarity": 2,
+"how to get": "Other",
+"season": 0
+},
+"Survival Footwrap Replicas": {
+"brand": "Cuttlegear",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"Captain's Flip-Flop Replicas": {
+"brand": "Cuttlegear",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"Fry Tops": {
+"brand": "SquidForce",
+"price": 5880,
+"rarity": 1,
+"how to get": "Other",
+"season": 2
+},
+"Burden of Floof": {
+"brand": "SquidForce",
+"price": 5880,
+"rarity": 1,
+"how to get": "Other",
+"season": 7
+},
+"Order Boot Replicas": {
+"brand": "Cuttlegear",
+"price": 899,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+
+}

@@ -1,0 +1,2502 @@
+{
+"Basic Tee": {
+"brand": "SquidForce",
+"price": 300,
+"rarity": 0,
+"how to get": "Shop",
+"season": 2
+},
+"Fresh Octo Tee": {
+"brand": "Cuttlegear",
+"price": 300,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"White Tee": {
+"brand": "SquidForce",
+"price": 400,
+"rarity": 0,
+"how to get": "Shop",
+"season": 1
+},
+"Black Squideye": {
+"brand": "Tentatek",
+"price": 500,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Sky-Blue Squideye": {
+"brand": "Tentatek",
+"price": 500,
+"rarity": 0,
+"how to get": "Shop",
+"season": 2
+},
+"Rockenberg White": {
+"brand": "Rockenberg",
+"price": 2500,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Rockenberg Black": {
+"brand": "Rockenberg",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Black Tee": {
+"brand": "SquidForce",
+"price": 400,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Sunny-Day Tee": {
+"brand": "Krak-On",
+"price": 300,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Rainy-Day Tee": {
+"brand": "Krak-On",
+"price": 300,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Reggae Tee": {
+"brand": "Skalop",
+"price": 8200,
+"rarity": 2,
+"how to get": "Shop",
+"season": 3
+},
+"Fugu Tee": {
+"brand": "Firefin",
+"price": 750,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Mint Tee": {
+"brand": "Skalop",
+"price": 400,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Grape Tee": {
+"brand": "Skalop",
+"price": 400,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Red Vector Tee": {
+"brand": "Takoroka",
+"price": 500,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Gray Vector Tee": {
+"brand": "Takoroka",
+"price": 500,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Blue Peaks Tee": {
+"brand": "Inkline",
+"price": 400,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Ivory Peaks Tee": {
+"brand": "Inkline",
+"price": 400,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Squid-Stitch Tee": {
+"brand": "Skalop",
+"price": 400,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Pirate-Stripe Tee": {
+"brand": "Splash Mob",
+"price": 700,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Sailor-Stripe Tee": {
+"brand": "Splash Mob",
+"price": 700,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"White 8-Bit FishFry": {
+"brand": "Firefin",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Black 8-Bit FishFry": {
+"brand": "Firefin",
+"price": 600,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"White Anchor Tee": {
+"brand": "SquidForce",
+"price": 2800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Black Anchor Tee": {
+"brand": "SquidForce",
+"price": 2800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Carnivore Tee": {
+"brand": "Firefin",
+"price": 500,
+"rarity": 0,
+"how to get": "Shop",
+"season": 2
+},
+"Pearl Tee": {
+"brand": "Skalop",
+"price": 400,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Octo Tee": {
+"brand": "Cuttlegear",
+"price": 8888,
+"rarity": 2,
+"how to get": "Shop",
+"season": 2
+},
+"Herbivore Tee": {
+"brand": "Firefin",
+"price": 500,
+"rarity": 0,
+"how to get": "Shop",
+"season": 2
+},
+"Black V-Neck Tee": {
+"brand": "SquidForce",
+"price": 3800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"White Deca Logo Tee": {
+"brand": "Zink",
+"price": 1200,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Half-Sleeve Sweater": {
+"brand": "Toni Kensa",
+"price": 4100,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"King Jersey": {
+"brand": "Enperry",
+"price": 3100,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Gray 8-Bit FishFry": {
+"brand": "Firefin",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"White V-Neck Tee": {
+"brand": "SquidForce",
+"price": 3800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"White Urchin Rock Tee": {
+"brand": "Rockenberg",
+"price": 850,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Black Urchin Rock Tee": {
+"brand": "Rockenberg",
+"price": 850,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Wet Floor Band Tee": {
+"brand": "Rockenberg",
+"price": 900,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Squid Squad Band Tee": {
+"brand": "Rockenberg",
+"price": 900,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Navy Deca Logo Tee": {
+"brand": "Zink",
+"price": 1200,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Mister Shrug Tee": {
+"brand": "Krak-On",
+"price": 9200,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Chirpy Chips Band Tee": {
+"brand": "Rockenberg",
+"price": 900,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Hightide Era Band Tee": {
+"brand": "Rockenberg",
+"price": 900,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"ω-3 Tee": {
+"brand": "Firefin",
+"price": 1200,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Annaki Polpo-Pic Tank": {
+"brand": "Annaki",
+"price": 6660,
+"rarity": 2,
+"how to get": "Shop",
+"season": 2
+},
+"Firewave Tee": {
+"brand": "Skalop",
+"price": 1250,
+"rarity": 0,
+"how to get": "Shop",
+"season": 2
+},
+"Takoroka Galactic Tie Dye": {
+"brand": "Takoroka",
+"price": 850,
+"rarity": 0,
+"how to get": "Shop",
+"season": 2
+},
+"Takoroka Rainbow Tie Dye": {
+"brand": "Takoroka",
+"price": 850,
+"rarity": 0,
+"how to get": "Shop",
+"season": 2
+},
+"Missus Shrug Tee": {
+"brand": "Krak-On",
+"price": 9200,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"League Tee": {
+"brand": "SquidForce",
+"price": 3800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Friend Tee": {
+"brand": "SquidForce",
+"price": 1200,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Tentatek Slogan Tee": {
+"brand": "Tentatek",
+"price": 1600,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Icewave Tee": {
+"brand": "Skalop",
+"price": 1250,
+"rarity": 0,
+"how to get": "Shop",
+"season": 2
+},
+"Octoking HK Jersey": {
+"brand": "Enperry",
+"price": 5800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Dakro Nana Tee": {
+"brand": "Zink",
+"price": 1010,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Dakro Golden Tee": {
+"brand": "Zink",
+"price": 1010,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Black Velour Octoking Tee": {
+"brand": "Enperry",
+"price": 2950,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Green Velour Octoking Tee": {
+"brand": "Enperry",
+"price": 1450,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Tri-Shred Tee": {
+"brand": "SquidForce",
+"price": 530,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Tentatek Tandem": {
+"brand": "Tentatek",
+"price": 960,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 1
+},
+"Annaki Choker Tee": {
+"brand": "Annaki",
+"price": 4000,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Annaki Bracelet Tee": {
+"brand": "Annaki",
+"price": 8000,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 1
+},
+"White Retro Tee": {
+"brand": "Tentatek",
+"price": 770,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 4
+},
+"Blue Retro Tee": {
+"brand": "Tentatek",
+"price": 2880,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Tan Retro Tee": {
+"brand": "Tentatek",
+"price": 8800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Barazushi Wrap": {
+"brand": "Barazushi",
+"price": 7200,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Barazushi Rice Tee": {
+"brand": "Barazushi",
+"price": 720,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Barazushi Black Tee": {
+"brand": "Barazushi",
+"price": 720,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Barazushi Sakura Tee": {
+"brand": "Barazushi",
+"price": 1200,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Octosquid Tandem Tee": {
+"brand": "SquidForce",
+"price": 300,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Tri-Squid Tee": {
+"brand": "SquidForce",
+"price": 300,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Tri-Octo Tee": {
+"brand": "SquidForce",
+"price": 300,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Takoroka \\m/ Crab": {
+"brand": "Takoroka",
+"price": 2320,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 5
+},
+"Takoroka \\m/ Alien": {
+"brand": "Takoroka",
+"price": 7900,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 5
+},
+"Takoroka Tandem": {
+"brand": "Takoroka",
+"price": 1200,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 4
+},
+"Pineapple Ringer": {
+"brand": "Zink",
+"price": 1000,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Apple Ringer": {
+"brand": "Zink",
+"price": 1000,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Vaporwave Tee": {
+"brand": "Skalop",
+"price": 880,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Duskwave Tee": {
+"brand": "Skalop",
+"price": 880,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Lyco-P Streetstyle Tee": {
+"brand": "Skalop",
+"price": 500,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 4
+},
+"Slate Streetstyle Tee": {
+"brand": "Skalop",
+"price": 400,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 7
+},
+"Eelzebub Tee": {
+"brand": "Skalop",
+"price": 2100,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Zontal Ztripe Tee": {
+"brand": "Skalop",
+"price": 400,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 8
+},
+"Lime BlobMob Tee": {
+"brand": "Emberz",
+"price": 1050,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 1
+},
+"Berry BlobMob Tee": {
+"brand": "Emberz",
+"price": 1050,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"White Z+F Tee": {
+"brand": "Z+F",
+"price": 830,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 3
+},
+"Navy Z+F Tee": {
+"brand": "Z+F",
+"price": 850,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 3
+},
+"Plum Barazushi Wrap": {
+"brand": "Barazushi",
+"price": 7200,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 5
+},
+"King Mesh Tee": {
+"brand": "Enperry",
+"price": 10500,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 5
+},
+"White Striped LS": {
+"brand": "Splash Mob",
+"price": 2300,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Black LS": {
+"brand": "Zekko",
+"price": 3000,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Purple Camo LS": {
+"brand": "Takoroka",
+"price": 600,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Navy Striped LS": {
+"brand": "Splash Mob",
+"price": 1050,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Zekko Baseball LS": {
+"brand": "Zekko",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Varsity Baseball LS": {
+"brand": "Splash Mob",
+"price": 700,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Black Baseball LS": {
+"brand": "Rockenberg",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"White Baseball LS": {
+"brand": "Rockenberg",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"White LS": {
+"brand": "SquidForce",
+"price": 600,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Green Striped LS": {
+"brand": "Inkline",
+"price": 700,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Squidmark LS": {
+"brand": "SquidForce",
+"price": 600,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Zink LS": {
+"brand": "Zink",
+"price": 500,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Striped Peaks LS": {
+"brand": "Inkline",
+"price": 700,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Pink Easy-Stripe Shirt": {
+"brand": "Splash Mob",
+"price": 3800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Inkopolis Squaps Jersey": {
+"brand": "Zink",
+"price": 1250,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Annaki Drive Tee": {
+"brand": "Annaki",
+"price": 5500,
+"rarity": 1,
+"how to get": "Shop",
+"season": 2
+},
+"Lime Easy-Stripe Shirt": {
+"brand": "Splash Mob",
+"price": 3800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Annaki Evolution Tee": {
+"brand": "Annaki",
+"price": 8800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Zekko Long Carrot Tee": {
+"brand": "Zekko",
+"price": 1800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Zekko Long Radish Tee": {
+"brand": "Zekko",
+"price": 1450,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Black Cuttlegear LS": {
+"brand": "Cuttlegear",
+"price": 5800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Takoroka Crazy Baseball LS": {
+"brand": "Takoroka",
+"price": 4200,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Red Cuttlegear LS": {
+"brand": "Cuttlegear",
+"price": 5800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Khaki 16-Bit FishFry": {
+"brand": "Firefin",
+"price": 3750,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Blue 16-Bit FishFry": {
+"brand": "Firefin",
+"price": 3750,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Ink-Black Tangle Top": {
+"brand": "Annaki",
+"price": 5550,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 2
+},
+"Deepsea Tangle Top": {
+"brand": "Annaki",
+"price": 5550,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 6
+},
+"Sharkfin Raglan": {
+"brand": "Zink",
+"price": 500,
+"rarity": 0,
+"how to get": "Catalog",
+"season": 7
+},
+"White Layered LS": {
+"brand": "SquidForce",
+"price": 500,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Yellow Layered LS": {
+"brand": "SquidForce",
+"price": 500,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Camo Layered LS": {
+"brand": "SquidForce",
+"price": 600,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Black Layered LS": {
+"brand": "SquidForce",
+"price": 500,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Zink Layered LS": {
+"brand": "Zink",
+"price": 600,
+"rarity": 0,
+"how to get": "Shop",
+"season": 1
+},
+"Layered Anchor LS": {
+"brand": "SquidForce",
+"price": 4000,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Choco Layered LS": {
+"brand": "Takoroka",
+"price": 1400,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Part-Time Pirate": {
+"brand": "Tentatek",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Layered Vector LS": {
+"brand": "Takoroka",
+"price": 1200,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Green Tee": {
+"brand": "Forge",
+"price": 1200,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Red Tentatek Tee": {
+"brand": "Tentatek",
+"price": 3100,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Blue Tentatek Tee": {
+"brand": "Tentatek",
+"price": 3100,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Squid Yellow Layered LS": {
+"brand": "SquidForce",
+"price": 4010,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Shrimp-Pink Polo": {
+"brand": "Splash Mob",
+"price": 550,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Striped Rugby": {
+"brand": "Takoroka",
+"price": 2300,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Tricolor Rugby": {
+"brand": "Takoroka",
+"price": 700,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Sage Polo": {
+"brand": "Splash Mob",
+"price": 400,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Black Polo": {
+"brand": "Zekko",
+"price": 500,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Cycling Shirt": {
+"brand": "Zink",
+"price": 2900,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Cycle King Jersey": {
+"brand": "Tentatek",
+"price": 8900,
+"rarity": 2,
+"how to get": "Shop",
+"season": 3
+},
+"Slipstream United": {
+"brand": "Takoroka",
+"price": 1800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"FC Albacore": {
+"brand": "Enperry",
+"price": 1200,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Rugby King 10": {
+"brand": "Enperry",
+"price": 3200,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Rugby King 08": {
+"brand": "Enperry",
+"price": 3200,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Olive Ski Jacket": {
+"brand": "Inkline",
+"price": 11000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Takoroka Nylon Vintage": {
+"brand": "Takoroka",
+"price": 9500,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Berry Ski Jacket": {
+"brand": "Inkline",
+"price": 3900,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Varsity Jacket": {
+"brand": "Zekko",
+"price": 11500,
+"rarity": 2,
+"how to get": "Shop",
+"season": 2
+},
+"School Jersey": {
+"brand": "Zink",
+"price": 3000,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Green Cardigan": {
+"brand": "Splash Mob",
+"price": 1700,
+"rarity": 1,
+"how to get": "Shop",
+"season": 2
+},
+"Black Inky Rider": {
+"brand": "Rockenberg",
+"price": 12100,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"White Inky Rider": {
+"brand": "Rockenberg",
+"price": 12800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 3
+},
+"Retro Gamer Jersey": {
+"brand": "Zink",
+"price": 9000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 3
+},
+"Orange Cardigan": {
+"brand": "Splash Mob",
+"price": 700,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Forge Inkling Parka": {
+"brand": "Forge",
+"price": 2900,
+"rarity": 1,
+"how to get": "Shop",
+"season": 2
+},
+"Forge Octarian Jacket": {
+"brand": "Forge",
+"price": 2700,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Blue Sailor Suit": {
+"brand": "Forge",
+"price": 11000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 3
+},
+"White Sailor Suit": {
+"brand": "Forge",
+"price": 3000,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Squid Satin Jacket": {
+"brand": "Zekko",
+"price": 9200,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Zapfish Satin Jacket": {
+"brand": "Zekko",
+"price": 2900,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Krak-On 528": {
+"brand": "Krak-On",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Chilly Mountain Coat": {
+"brand": "Inkline",
+"price": 7900,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Takoroka Windcrusher": {
+"brand": "Takoroka",
+"price": 8500,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Matcha Down Jacket": {
+"brand": "Inkline",
+"price": 9100,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"FA-01 Jacket": {
+"brand": "Forge",
+"price": 10100,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"FA-01 Reversed": {
+"brand": "Forge",
+"price": 10100,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Pullover Coat": {
+"brand": "Toni Kensa",
+"price": 13200,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Kensa Coat": {
+"brand": "Toni Kensa",
+"price": 9200,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Birded Corduroy Jacket": {
+"brand": "Zekko",
+"price": 10400,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Deep-Octo Satin Jacket": {
+"brand": "Zekko",
+"price": 12300,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Zekko Redleaf Coat": {
+"brand": "Zekko",
+"price": 2600,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Lemon Mountain Coat": {
+"brand": "Inkline",
+"price": 7600,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Zekko Jade Coat": {
+"brand": "Zekko",
+"price": 3600,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Light Bomber Jacket": {
+"brand": "Toni Kensa",
+"price": 12800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Navy Eminence Jacket": {
+"brand": "Enperry",
+"price": 10500,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Tumeric Zekko Coat": {
+"brand": "Zekko",
+"price": 4600,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Custom Painted F-3": {
+"brand": "Forge",
+"price": 9700,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Dark Bomber Jacket": {
+"brand": "Toni Kensa",
+"price": 12800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 2
+},
+"White Leather F-3": {
+"brand": "Forge",
+"price": 8900,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Chili-Pepper Ski Jacket": {
+"brand": "Inkline",
+"price": 7800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Whale-Knit Sweater": {
+"brand": "Splash Mob",
+"price": 9650,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Rockin' Leather Jacket": {
+"brand": "Annaki",
+"price": 10666,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Kung-Fu Zip-Up": {
+"brand": "Toni Kensa",
+"price": 10280,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Panda Kung-Fu Zip-Up": {
+"brand": "Toni Kensa",
+"price": 10280,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Arctic Monster Parka": {
+"brand": "Barazushi",
+"price": 12000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Barazushi Anorak": {
+"brand": "Barazushi",
+"price": 5200,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Patchwork Bomber": {
+"brand": "Emberz",
+"price": 12500,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Airflow & Hustle Jacket": {
+"brand": "Forge",
+"price": 11300,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Ink-Black Paddle Jack": {
+"brand": "Toni Kensa",
+"price": 9900,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Orca Bolero": {
+"brand": "Toni Kensa",
+"price": 9980,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Cream Tundra Fleece": {
+"brand": "Inkline",
+"price": 3500,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Rugby Fleece": {
+"brand": "Inkline",
+"price": 8500,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 6
+},
+"Annaki Anchored Coat": {
+"brand": "Annaki",
+"price": 12000,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 4
+},
+"Dusty Field Jacket": {
+"brand": "Inkline",
+"price": 3400,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Light-Bright Paddle Jack": {
+"brand": "Toni Kensa",
+"price": 9900,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 2
+},
+"Penguin Bolero": {
+"brand": "Toni Kensa",
+"price": 9900,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 2
+},
+"Barazushi Tuff Duffel": {
+"brand": "Barazushi",
+"price": 12000,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 2
+},
+"Barazushi Peacoat": {
+"brand": "Barazushi",
+"price": 9900,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 6
+},
+"Indigo Boss Haori": {
+"brand": "Emberz",
+"price": 10500,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 4
+},
+"Lime Ski Jacket": {
+"brand": "Inkline",
+"price": 3370,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 2
+},
+"Takoroka Nineties Nylon": {
+"brand": "Takoroka",
+"price": 9900,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 4
+},
+"Barazushi Liner Shell": {
+"brand": "Barazushi",
+"price": 9500,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 6
+},
+"Tenured Turtleneck": {
+"brand": "Splash Mob",
+"price": 3500,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 6
+},
+"Annaki Tuff Duffel": {
+"brand": "Annaki",
+"price": 8800,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 6
+},
+"Chompers Varsity Jacket": {
+"brand": "Skalop",
+"price": 11500,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 8
+},
+"B-ball Jersey (Home)": {
+"brand": "Zink",
+"price": 2300,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"B-ball Jersey (Away)": {
+"brand": "Zink",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"White King Tank": {
+"brand": "Enperry",
+"price": 600,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Slash King Tank": {
+"brand": "Enperry",
+"price": 450,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Navy King Tank": {
+"brand": "Enperry",
+"price": 600,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Lob-Stars Jersey": {
+"brand": "Tentatek",
+"price": 4650,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Umibozu Road Jersey": {
+"brand": "Takoroka",
+"price": 8900,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 4
+},
+"Umibozu Home Jersey": {
+"brand": "Takoroka",
+"price": 870,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Gray College Sweat": {
+"brand": "Splash Mob",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Squidmark Sweat": {
+"brand": "SquidForce",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Retro Sweat": {
+"brand": "SquidForce",
+"price": 9000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 3
+},
+"Firefin Navy Sweat": {
+"brand": "Firefin",
+"price": 2500,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Navy College Sweat": {
+"brand": "Splash Mob",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Reel Sweat": {
+"brand": "Zekko",
+"price": 900,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Anchor Sweat": {
+"brand": "SquidForce",
+"price": 2800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Negative Longcuff Sweater": {
+"brand": "Toni Kensa",
+"price": 11800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 2
+},
+"Short Knit Layers": {
+"brand": "Toni Kensa",
+"price": 9850,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Positive Longcuff Sweater": {
+"brand": "Toni Kensa",
+"price": 10800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Annaki Blue Cuff": {
+"brand": "Annaki",
+"price": 4800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Annaki Yellow Cuff": {
+"brand": "Annaki",
+"price": 4800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Annaki Red Cuff": {
+"brand": "Annaki",
+"price": 4800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"N-Pacer Sweat": {
+"brand": "Enperry",
+"price": 7800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 2
+},
+"Octarian Retro": {
+"brand": "Cuttlegear",
+"price": 5000,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Takoroka Jersey": {
+"brand": "Takoroka",
+"price": 8960,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Manatee Swag Sweat": {
+"brand": "Krak-On",
+"price": 4000,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Apex Sweater": {
+"brand": "Krak-On",
+"price": 9600,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Octo Jumper Away": {
+"brand": "Takoroka",
+"price": 3000,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Octo Jumper Home": {
+"brand": "Takoroka",
+"price": 3000,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 7
+},
+"Moby Knit": {
+"brand": "Krak-On",
+"price": 9600,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 2
+},
+"Lemon Hoodless": {
+"brand": "Z+F",
+"price": 3456,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 3
+},
+"Motley Hoodless": {
+"brand": "Z+F",
+"price": 4567,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 3
+},
+"Lime Hoodless": {
+"brand": "Z+F",
+"price": 3456,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 5
+},
+"Fuzzly Sweater": {
+"brand": "Emberz",
+"price": 9600,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 6
+},
+"Fringehead Hoodless": {
+"brand": "Emberz",
+"price": 3000,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 8
+},
+"Lumberjack Shirt": {
+"brand": "Rockenberg",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Rodeo Shirt": {
+"brand": "Krak-On",
+"price": 750,
+"rarity": 0,
+"how to get": "Shop",
+"season": 2
+},
+"Green-Check Shirt": {
+"brand": "Zekko",
+"price": 2000,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"White Shirt": {
+"brand": "Splash Mob",
+"price": 7500,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Urchins Jersey": {
+"brand": "Zink",
+"price": 700,
+"rarity": 0,
+"how to get": "Shop",
+"season": 2
+},
+"Aloha Shirt": {
+"brand": "Forge",
+"price": 700,
+"rarity": 0,
+"how to get": "Shop",
+"season": 0
+},
+"Red-Check Shirt": {
+"brand": "Zekko",
+"price": 2000,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Baby-Jelly Shirt": {
+"brand": "Splash Mob",
+"price": 1350,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Baseball Jersey": {
+"brand": "Firefin",
+"price": 10000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 3
+},
+"Gray Mixed Shirt": {
+"brand": "Zekko",
+"price": 2800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Vintage Check Shirt": {
+"brand": "Rockenberg",
+"price": 9000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 3
+},
+"Round-Collar Shirt": {
+"brand": "Rockenberg",
+"price": 1600,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Logo Aloha Shirt": {
+"brand": "Zekko",
+"price": 2900,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Striped Shirt": {
+"brand": "Splash Mob",
+"price": 2200,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Linen Shirt": {
+"brand": "Splash Mob",
+"price": 700,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Shirt & Tie": {
+"brand": "Splash Mob",
+"price": 8400,
+"rarity": 2,
+"how to get": "Shop",
+"season": 3
+},
+"Hula Punk Shirt": {
+"brand": "Annaki",
+"price": 5000,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Octobowler Shirt": {
+"brand": "Krak-On",
+"price": 2100,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Inkfall Shirt": {
+"brand": "Toni Kensa",
+"price": 4900,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Crimson Parashooter": {
+"brand": "Annaki",
+"price": 9200,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Baby-Jelly Shirt & Tie": {
+"brand": "Splash Mob",
+"price": 3800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Prune Parashooter": {
+"brand": "Annaki",
+"price": 7800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Red Hula Punk with Tie": {
+"brand": "Annaki",
+"price": 9000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Chili Octo Aloha": {
+"brand": "Krak-On",
+"price": 4850,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Annaki Flannel Hoodie": {
+"brand": "Annaki",
+"price": 9999,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Ink-Wash Shirt": {
+"brand": "Toni Kensa",
+"price": 4900,
+"rarity": 1,
+"how to get": "Shop",
+"season": 2
+},
+"Dots-on-Dots Shirt": {
+"brand": "Skalop",
+"price": 7650,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Toni K. Baseball Jersey": {
+"brand": "Toni Kensa",
+"price": 9650,
+"rarity": 2,
+"how to get": "Shop",
+"season": 7
+},
+"Seahorse Shoreliner": {
+"brand": "Krak-On",
+"price": 3800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Button-Clown Shirt": {
+"brand": "Emberz",
+"price": 6300,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Trooper Top": {
+"brand": "Z+F",
+"price": 10100,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 3
+},
+"Business Animal": {
+"brand": "Emberz",
+"price": 2500,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Fancyfish Stitch": {
+"brand": "Krak-On",
+"price": 4600,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Dark Splash Shirt": {
+"brand": "Toni Kensa",
+"price": 12000,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 8
+},
+"Fashion Splash Shirt": {
+"brand": "Toni Kensa",
+"price": 9750,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Hype Stripe Button Up": {
+"brand": "Splash Mob",
+"price": 9999,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 4
+},
+"Base White Button Up": {
+"brand": "Splash Mob",
+"price": 9999,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 2
+},
+"Rad Plaid Casual": {
+"brand": "Z+F",
+"price": 9760,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 3
+},
+"Urban Upcycle Top": {
+"brand": "Emberz",
+"price": 8800,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Barrelfish Baseball Uni": {
+"brand": "Takoroka",
+"price": 10000,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 7
+},
+"Coral Bloom Aloha": {
+"brand": "Krak-On",
+"price": 10000,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 8
+},
+"Kelp Trooper Top": {
+"brand": "Z+F",
+"price": 10100,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 8
+},
+"Mountain Vest": {
+"brand": "Inkline",
+"price": 11000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 3
+},
+"Forest Vest": {
+"brand": "Inkline",
+"price": 11000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 3
+},
+"Dark Urban Vest": {
+"brand": "Firefin",
+"price": 10000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 3
+},
+"Yellow Urban Vest": {
+"brand": "Firefin",
+"price": 4100,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Squid-Pattern Waistcoat": {
+"brand": "Krak-On",
+"price": 800,
+"rarity": 0,
+"how to get": "Shop",
+"season": 2
+},
+"Squidstar Waistcoat": {
+"brand": "Krak-On",
+"price": 650,
+"rarity": 0,
+"how to get": "Shop",
+"season": 3
+},
+"Fishing Vest": {
+"brand": "Inkline",
+"price": 4200,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Front-Zip Vest": {
+"brand": "Toni Kensa",
+"price": 5500,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Silver Tentatek Vest": {
+"brand": "Tentatek",
+"price": 6200,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Khaki Ranger Vest": {
+"brand": "Inkline",
+"price": 4200,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Red Battlecrab Shell": {
+"brand": "Enperry",
+"price": 6200,
+"rarity": 2,
+"how to get": "Shop",
+"season": 0
+},
+"Lime Battlecrab Shell": {
+"brand": "Enperry",
+"price": 6400,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 1
+},
+"Distressed Vest": {
+"brand": "Toni Kensa",
+"price": 11800,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 1
+},
+"Black Ranger Vest": {
+"brand": "Inkline",
+"price": 6000,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 4
+},
+"Dark Distressed Vest": {
+"brand": "Toni Kensa",
+"price": 11800,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 5
+},
+"Tentatek Slipstream Vest": {
+"brand": "Tentatek",
+"price": 11800,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 7
+},
+"Teal Body Warmer": {
+"brand": "Emberz",
+"price": 11800,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 7
+},
+"Camo Zip Hoodie": {
+"brand": "Firefin",
+"price": 9000,
+"rarity": 2,
+"how to get": "Shop",
+"season": 3
+},
+"Green Zip Hoodie": {
+"brand": "Firefin",
+"price": 2800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Zekko Hoodie": {
+"brand": "Zekko",
+"price": 2800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 3
+},
+"Shirt with Blue Hoodie": {
+"brand": "Splash Mob",
+"price": 2900,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Grape Hoodie": {
+"brand": "Enperry",
+"price": 1100,
+"rarity": 0,
+"how to get": "Shop",
+"season": 7
+},
+"Gray Hoodie": {
+"brand": "Skalop",
+"price": 1900,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Hothouse Hoodie": {
+"brand": "Skalop",
+"price": 3800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Pink Hoodie": {
+"brand": "Splash Mob",
+"price": 3400,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Olive Zekko Parka": {
+"brand": "Zekko",
+"price": 3800,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Black Hoodie": {
+"brand": "Skalop",
+"price": 2900,
+"rarity": 1,
+"how to get": "Shop",
+"season": 7
+},
+"Sudadera Roja": {
+"brand": "Krak-On",
+"price": 3450,
+"rarity": 1,
+"how to get": "Shop",
+"season": 0
+},
+"Dustcloud Hoodie": {
+"brand": "Z+F",
+"price": 8920,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 3
+},
+"Sudadera Celeste": {
+"brand": "Krak-On",
+"price": 3650,
+"rarity": 1,
+"how to get": "Catalog",
+"season": 1
+},
+"Seafoam Hoodie": {
+"brand": "Z+F",
+"price": 8920,
+"rarity": 2,
+"how to get": "Catalog",
+"season": 3
+},
+"Squiddor Polo": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Uroko",
+"season": 3
+},
+"Anchor Life Vest": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Uroko",
+"season": 3
+},
+"Juice Parka": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Uroko",
+"season": 3
+},
+"Garden Gear": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Uroko",
+"season": 5
+},
+"Crustwear XXL": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Uroko",
+"season": 5
+},
+"North-Country Parka": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Uroko",
+"season": 7
+},
+"Octoleet Armor": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Uroko",
+"season": 7
+},
+"Dev Uniform": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Uroko",
+"season": 7
+},
+"Office Attire": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Uroko",
+"season": 8
+},
+"SRL Coat": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Uroko",
+"season": 8
+},
+"Commander Tunic": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Other",
+"season": 3
+},
+"Astro Wear": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Other",
+"season": 3
+},
+"Retro Future Suit": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Other",
+"season": 4
+},
+"Brinestone Jacket": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Other",
+"season": 5
+},
+"SplatJack 5000": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Other",
+"season": 6
+},
+"Hacker Jacket": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Other",
+"season": 6
+},
+"Cooler Jacket": {
+"brand": "Grizzco",
+"price": 0,
+"rarity": 2,
+"how to get": "Other",
+"season": 7
+},
+"School Uniform A": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Samurai Jacket": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Power Armor": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"School Cardigan A": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Squinja Suit": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Power Armor Mk I": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Pearlescent Hoodie": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Marinated Top": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Enchanted Robe A": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Steel Platemail": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Fresh Fish Gloves": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Schoolyard Scrap Jack": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"Black-Belt Gi": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"Chaos Commander Suit": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"School Uniform B": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"School Cardigan B": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Enchanted Robe B": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Chomp Top": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"Eelneck Tank": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"Big Slick": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"World Tour Puffy Coat": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"World Tour Jacket": {
+"brand": "amiibo",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"Splatfest Tee": {
+"brand": "SquidForce",
+"price": 0,
+"rarity": 2,
+"how to get": "Other",
+"season": 1
+},
+"Hero Jacket Replica": {
+"brand": "Cuttlegear",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Armor Jacket Replica": {
+"brand": "Cuttlegear",
+"price": 0,
+"rarity": 1,
+"how to get": "Other",
+"season": 1
+},
+"Hero Suit Replica": {
+"brand": "Cuttlegear",
+"price": 1010,
+"rarity": 0,
+"how to get": "Other",
+"season": 0
+},
+"Survival Suit Replica": {
+"brand": "Cuttlegear",
+"price": 1010,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"Captain's Poncho Replica": {
+"brand": "Cuttlegear",
+"price": 1010,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+},
+"Crispy Crustume": {
+"brand": "SquidForce",
+"price": 4000,
+"rarity": 1,
+"how to get": "Other",
+"season": 3
+},
+"Frivolous Paw Suit": {
+"brand": "SquidForce",
+"price": 4000,
+"rarity": 1,
+"how to get": "Other",
+"season": 6
+},
+"Order Suit Replica": {
+"brand": "Cuttlegear",
+"price": 600,
+"rarity": 1,
+"how to get": "Other",
+"season": -1
+}
+
+}
